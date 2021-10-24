@@ -1,6 +1,4 @@
-# Formal Demography Working Group
-
-# About
+The Formal Demography Working Group...
 
 # Sign-up
 
