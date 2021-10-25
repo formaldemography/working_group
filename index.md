@@ -1,6 +1,6 @@
 ## Welcome
 
-The Formal Demography Working Group aims to bring together formal demography scholars and those interested in formal demography to discuss recent and classic work, new ideas, and to foster collaborations. We meet virtually each month with meetings tentatively scheduled for the last Friday in every month. 
+The Formal Demography Working Group aims to bring together formal demography scholars and those interested in formal demography to discuss recent and classic work, brainstorm new ideas, and to foster collaborations. We meet virtually each month with meetings tentatively scheduled for the last Friday in every month. 
 
 ### Sign-up
 
@@ -16,10 +16,17 @@ The first meeting will take place **Friday 29 October at 11am EST**. This will b
 
 ## Workshop materials
 
+- Slides from each meeting to be posted here. 
+
 ### Recordings
 
-## Useful links
+- Recordings to be posted here TBD
+
+## Links
+
+- [Demographic Research: Special Collection on Formal Relationships](https://www.demographic-research.org/special/8/default.htm)
+- [Berkeley Formal Demography Workshop 2021](https://populationsciences.berkeley.edu/population-center/annual-workshop-on-formal-demography/berkeley-formal-demography-workshop-2021/)
 
 ## Contact
 
-Workshop organized by [Vanessa Di Lego](http://www.wittgensteincentre.org/en/staff/member/di-lego.htm) (Vienna Institute of Demography), [Ryohei Mogi](https://www.ox.ac.uk/news-and-events/find-an-expert/dr-ryohei-mogi) (University of Oxford), and [Monica Alexander](https://www.monicaalexander.com/) (University of Toronto).
+This working group is organized by [Vanessa Di Lego](http://www.wittgensteincentre.org/en/staff/member/di-lego.htm) (Vienna Institute of Demography), [Ryohei Mogi](https://www.ox.ac.uk/news-and-events/find-an-expert/dr-ryohei-mogi) (University of Oxford), and [Monica Alexander](https://www.monicaalexander.com/) (University of Toronto). It is still a very new idea and we are always open to suggestions and feedback. 
