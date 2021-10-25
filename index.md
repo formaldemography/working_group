@@ -16,11 +16,7 @@ The first meeting will take place **Friday 29 October at 11am EST**. This will b
 
 ## Workshop materials
 
-- Slides from each meeting to be posted here. 
-
-### Recordings
-
-- Recordings to be posted here TBD
+- Slides (and recordings?) from each meeting to be posted here. 
 
 ## Links
 
