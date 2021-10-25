@@ -8,7 +8,11 @@ If you would like to be included on the mailing list sign up [here](https://docs
 
 ## Schedule
 
-The first meeting will take place Friday 29 October at 11am EST. This will be a casual start to the group, with the organizers (Vanessa, Monica, and Ryo) saying a few words, and some short reflections from Ron Lee, followed by discussion. 
+The first meeting will take place **Friday 29 October at 11am EST**. This will be a casual start to the group. Tentative schedule:
+
+- A few words from the organizers (Vanessa, Monica, and Ryo) 
+- Some short reflections from Ron Lee
+- Group discussion
 
 ## Workshop materials
 
@@ -17,3 +21,5 @@ The first meeting will take place Friday 29 October at 11am EST. This will be a 
 ## Useful links
 
 ## Contact
+
+Workshop organized by [Vanessa Di Lego](http://www.wittgensteincentre.org/en/staff/member/di-lego.htm) (Vienna Institute of Demography), [Ryohei Mogi](https://www.ox.ac.uk/news-and-events/find-an-expert/dr-ryohei-mogi) (University of Oxford), and [Monica Alexander](https://www.monicaalexander.com/) (University of Toronto).
