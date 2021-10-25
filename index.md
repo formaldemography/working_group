@@ -2,7 +2,7 @@
 
 The Formal Demography Working Group aims to bring together formal demography scholars and those interested in formal demography to discuss recent and classic work, brainstorm new ideas, and to foster collaborations. We meet virtually each month with meetings tentatively scheduled for the last Friday in every month. Our aims are to:
 
-1. Bring a small community together with formal demography as the focus (foster new ideas, collaborations)
+1. Bring a small community together with formal demography as the focus 
 2. Create a supportive and inclusive environment to learn, and encourage people to work with formal methods
 3. Discuss the past, present and future of formal demography 
 
