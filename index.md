@@ -1,8 +1,8 @@
 ## Welcome
 
-The Formal Demography Working Group aims to bring together formal demography scholars and those interested in formal demography to discuss recent and classic work, brainstorm new ideas, and to foster collaborations. We meet virtually each month with meetings tentatively scheduled for the last Friday in every month. Our aims are to:
+The Formal Demography Working Group aims to bring together formal demography scholars and those interested in formal demography to discuss recent and classic work, brainstorm new ideas, and to foster new collaborations. We meet virtually each month with meetings tentatively scheduled for the last Friday in every month. Our aims are to:
 
-1. Bring a small community together with formal demography as the focus 
+1. Bring an international community of scholars together with formal demography as the focus 
 2. Create a supportive and inclusive environment to learn, and encourage people to work with formal methods
 3. Discuss the past, present and future of formal demography 
 
@@ -22,10 +22,11 @@ The first meeting will take place **Friday 29 October at 11am EST**. This will b
 
 - Slides (and recordings?) from each meeting to be posted here. 
 
-## Links
+## Useful Links
 
 - [Demographic Research: Special Collection on Formal Relationships](https://www.demographic-research.org/special/8/default.htm)
 - [Berkeley Formal Demography Workshop 2021](https://populationsciences.berkeley.edu/population-center/annual-workshop-on-formal-demography/berkeley-formal-demography-workshop-2021/)
+- [Ron Lee's essay 'Demography Abandons its Core'](https://u.demog.berkeley.edu/~rlee/papers/FormalDemog.pdf)
 
 ## Contact
 
