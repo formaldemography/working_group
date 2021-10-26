@@ -8,7 +8,7 @@ The Formal Demography Working Group aims to bring together formal demography sch
 
 ### Sign-up
 
-If you would like to be included on the mailing list sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSfDYM8_ljPi4wA3JXwtJwL34nygtdlAQoVAvFGOTpM_q9IivA/viewform). 
+If you would like to be included on the mailing list sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSeacS7MDRaulnOsVW3fMX2qaMzFdqutMrYOj8N0E-NYA9c7KQ/viewform). 
 
 ## Schedule
 
