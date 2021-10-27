@@ -28,7 +28,7 @@ The first meeting will take place **Friday 29 October at 11am EST**. This will b
 - [Berkeley Formal Demography Workshop 2021](https://populationsciences.berkeley.edu/population-center/annual-workshop-on-formal-demography/berkeley-formal-demography-workshop-2021/)
 - [Ron Lee's essay 'Demography Abandons its Core'](https://u.demog.berkeley.edu/~rlee/papers/FormalDemog.pdf)
 
-<a href="map.html">Map</a> of locations/affiliations of sign-ups already!
+<a href="map.html">Here</a> is a map of locations/affiliations of sign-ups to date. We are very international!
 
 ## Contact
 
