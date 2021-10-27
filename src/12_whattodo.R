@@ -11,3 +11,4 @@ D %>%
   theme(axis.title = element_blank(),
         axis.text = element_text(size = 11))
 ggsave("out/whattodo.pdf", width = 8, height = 5)
+ggsave("working_group/out/whattodo.pdf", width = 8, height = 5)

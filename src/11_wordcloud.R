@@ -87,3 +87,10 @@ wordcloud(words = d_cle$keyword2, freq = d_cle$n, min.freq = 1,
           max.words = 200, random.order = FALSE, rot.per = 0.35,
           colors = brewer.pal(8, "Dark2"))
 dev.off()
+
+#pdf("working_group/out/Keyword_wordcloud.pdf")
+#set.seed(1)
+#wordcloud(words = d_cle$keyword2, freq = d_cle$n, min.freq = 1,
+#          max.words = 200, random.order = FALSE, rot.per = 0.35,
+#          colors = brewer.pal(8, "Dark2"))
+#dev.off()
