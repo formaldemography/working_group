@@ -10,6 +10,8 @@ The Formal Demography Working Group aims to bring together formal demography sch
 
 If you would like to be included on the mailing list sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSeacS7MDRaulnOsVW3fMX2qaMzFdqutMrYOj8N0E-NYA9c7KQ/viewform). 
 
+<a href="map.html">Here</a> is a map of locations/affiliations of sign-ups to date. We are very international!
+
 ## Schedule
 
 The first meeting will take place **Friday 29 October at 11am EST**. This will be a casual start to the group. Tentative schedule:
@@ -28,7 +30,6 @@ The first meeting will take place **Friday 29 October at 11am EST**. This will b
 - [Berkeley Formal Demography Workshop 2021](https://populationsciences.berkeley.edu/population-center/annual-workshop-on-formal-demography/berkeley-formal-demography-workshop-2021/)
 - [Ron Lee's essay 'Demography Abandons its Core'](https://u.demog.berkeley.edu/~rlee/papers/FormalDemog.pdf)
 
-<a href="map.html">Here</a> is a map of locations/affiliations of sign-ups to date. We are very international!
 
 ## Contact
 
