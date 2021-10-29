@@ -12,17 +12,11 @@ If you would like to be included on the mailing list sign up [here](https://docs
 
 <a href="map.html">Here</a> is a map of locations/affiliations of sign-ups to date. We are very international!
 
-## Schedule
+## Schedule and materials
 
-The first meeting will take place **Friday 29 October at 11am ET (Toronto time)**. This will be a casual start to the group. Tentative schedule:
+- **Meeting 1: Kick-off** Friday 29 October at 11am ET. [Recording](https://www.youtube.com/watch?v=ROQK0JZr7uU) [Monica's slides](https://github.com/formaldemography/working_group/blob/main/fdwg.pdf) [Vanessa's Slides](https://github.com/formaldemography/working_group/blob/main/Meeting_29_10_2021.ppt)
+- **Meeting 2** TBA
 
-- A few words from the organizers (Vanessa, Monica, and Ryo) 
-- Some short reflections from Ron Lee
-- Group discussion
-
-## Workshop materials
-
-- Slides (and recordings?) from each meeting to be posted here. 
 
 ## Useful Links
 
