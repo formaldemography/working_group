@@ -14,7 +14,10 @@ If you would like to be included on the mailing list sign up [here](https://docs
 
 ## Schedule and materials
 
-- **Meeting 1: Kick-off** Friday 29 October at 11am ET. [Recording](https://www.youtube.com/watch?v=ROQK0JZr7uU) [Monica's slides](https://github.com/formaldemography/working_group/blob/main/fdwg.pdf) [Vanessa's Slides](https://github.com/formaldemography/working_group/blob/main/Meeting_29_10_2021.ppt)
+- **Meeting 1: Kick-off**, Friday 29 October at 11am ET 
+    + [Recording](https://www.youtube.com/watch?v=ROQK0JZr7uU) 
+    + [Monica's slides](https://github.com/formaldemography/working_group/blob/main/fdwg.pdf) 
+    + [Vanessa's Slides](https://github.com/formaldemography/working_group/blob/main/Meeting_29_10_2021.ppt)
 - **Meeting 2** TBA
 
 
