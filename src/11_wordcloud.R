@@ -16,7 +16,8 @@ d_cle <- D %>%
          keyword2 = case_when(keyword %in% c("ageing", "aging", "pop aging", "population ageing", 
                                              "population ageing", "population aging",
                                              "healthy ageing") ~ "ageing",
-                              keyword %in% c("bayesian", "bayesian models", "bayesian demography", "bayesian methods") ~ "bayesian",
+                              keyword %in% c("bayesian", "bayesian models", "bayesian demography", "bayesian methods",
+                                             "bayesian statistics") ~ "bayesian",
                               keyword %in% c("biodemography", "biodemography of young adulthood") ~ "biodemography",
                               keyword %in% c("cause of death", "causes of death", "causes-of-death") ~ "causes of death",
                               keyword %in% c("data vizualizaton", "dataviz", "data visualization") ~ "dataviz",
@@ -34,17 +35,20 @@ d_cle <- D %>%
                               keyword %in% c("migration", "migration ", "mobility", "internal migration",
                                              "population displacement/mobility", "human mobility", "migrations",
                                              "currently working on migration statistics in south africa",
-                                             "mexican migration", "international migration dynamics", "migration estimation") ~ "migration",
+                                             "mexican migration", "international migration dynamics", "migration estimation",
+                                             "immigration", "international migration") ~ "migration",
                               keyword %in% c("mortality", "mortality ", "mortality modeling", "mortality estimates",
                                              "mortality estimation", "mortality forecasting", "mortality models",
                                              "mortality selection", "sub-national mortality", "death", "demographic analysis of mortality",
-                                             "i am experienced in mortality estimation", "death distribution methods") ~ "mortality",
+                                             "i am experienced in mortality estimation", "death distribution methods",
+                                             "mortality analysis") ~ "mortality",
                               keyword %in% c("premature mortality", "infant mortality") ~ "infant mortality",
                               keyword %in% c("pop health", "health", "population health", "fetal/perinatal health") ~ "health",
                               keyword %in% c("population projections", "population estimates", "population models", 
                                               "population trends", "modeling", "population estimation", "simulation models",
-                                             "demographic estimation.", "demographic microsimulations",
-                                             "forecasting", "forecasts", "population forecast", "population projection") ~ "projection/simulation",
+                                             "demographic estimation.", "demographic microsimulations", "applied forecasting",
+                                             "forecasting", "forecasts", "population forecast", "population projection",
+                                             "projection", "projections", "simulation") ~ "projection/simulation",
                               keyword %in% c("reproductive", "infertility", "fertility", "fertility transition",
                                               "men's fertility", "birth", "childlessness", "late fertility") ~ "fertility",
                               keyword %in% c("small area", "small-area estimation", "subnational estimates",
@@ -75,21 +79,22 @@ d_cle <- D %>%
                               keyword %in% c("decomposition methods", "decomposition") ~ "decomposition",
                               keyword %in% c("environmental demography", "environmental") ~ "environmental demography",
                               keyword %in% c("household structure", "household dynamics") ~ "household",
+                              keyword %in% c("health geographer", "health geography") ~ "health geography",
                               keyword %in% c("computational methods", "computational statistics", "computational demography") ~ "computational demography",
                               T ~ keyword)) %>% 
-  filter(keyword2 %out% c("geri’s ord", "hiv", "mapu")) %>% 
+  filter(keyword2 %out% c("geri’s ord", "hiv", "mapu", " ")) %>% 
   count(keyword2)
 
 
 pdf("out/Keyword_wordcloud.pdf")
-set.seed(1)
+set.seed(100)
 wordcloud(words = d_cle$keyword2, freq = d_cle$n, min.freq = 1,
           max.words = 200, random.order = FALSE, rot.per = 0.35,
           colors = brewer.pal(8, "Dark2"))
 dev.off()
 
 #pdf("working_group/out/Keyword_wordcloud.pdf")
-#set.seed(1)
+#set.seed(100)
 #wordcloud(words = d_cle$keyword2, freq = d_cle$n, min.freq = 1,
 #          max.words = 200, random.order = FALSE, rot.per = 0.35,
 #          colors = brewer.pal(8, "Dark2"))
