@@ -1,6 +1,6 @@
 ## Welcome
 
-The Formal Demography Working Group aims to bring together formal demography scholars and those interested in formal demography to discuss recent and classic work, brainstorm new ideas, and to foster new collaborations. We meet virtually each month with meetings tentatively scheduled for the last Friday in every month. Our aims are to:
+The Formal Demography Working Group aims to bring together formal demography scholars and those interested in formal demography to discuss recent and classic work, brainstorm new ideas, and to foster new collaborations. We meet virtually each month with meetings tentatively scheduled for the last Friday in every month. Our specific aims are to:
 
 1. Bring an international community of scholars together with formal demography as the focus 
 2. Create a supportive and inclusive environment to learn, and encourage people to work with formal methods
@@ -14,7 +14,7 @@ If you would like to be included on the mailing list sign up [here](https://docs
 
 ## Schedule
 
-The first meeting will take place **Friday 29 October at 11am EST**. This will be a casual start to the group. Tentative schedule:
+The first meeting will take place **Friday 29 October at 11am ET (Toronto time)**. This will be a casual start to the group. Tentative schedule:
 
 - A few words from the organizers (Vanessa, Monica, and Ryo) 
 - Some short reflections from Ron Lee
