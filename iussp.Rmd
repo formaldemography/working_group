@@ -1,0 +1,39 @@
+---
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Formal Demography at IUSSP 2021
+
+Here is a list of formal demography presentations at the [IUSSP International Population Conference](https://ipc2021.popconf.org/), to be held 5-10 December. Papers are organized alphabetically by first author within broad themes. 
+
+If you or someone you know is presenting formal demography work and it is not included on the list below, please fill out [this form]().
+
+### Fertility and reproductive measures
+
+- '[Is NRR time-sensitive in measuring population replacement level?](https://ipc2021.popconf.org/abstracts/210503)', Arni Rao. [Session 83](https://ipc2021.popconf.org/sessions/83)
+-  '[Imputation of full birth histories from census data: a rediscovered method for the detailed analysis of fertility]()', Ian Timeaus. [Session 39](https://ipc2021.popconf.org/sessions/39)
+
+### Mortality 
+
+- '[Cause of Death Reduce Life Table](https://ipc2021.popconf.org/abstracts/210297)', Vladimir Canudas-Romo, Jose Manuel Aburto, and Marius Pascariu. [Session 135](https://ipc2021.popconf.org/sessions/135).
+-  '[The sensitivity of the Healthy Life Years indicator: Approaches for dealing with age-specific prevalence data](https://ipc2021.popconf.org/abstracts/211687)', Vanessa di Lego, and Markus Sauerberg. [Session 135](https://ipc2021.popconf.org/sessions/135).
+-  '[Lifesaving and a new ticket to life: A reappraisal of the resuscitation approach](https://ipc2021.popconf.org/abstracts/211693)', Vanessa di Lego. [Session 166](https://ipc2021.popconf.org/sessions/166).
+- '[Application of Network Analysis to Multiple Causes of Death Data in Japan](https://ipc2021.popconf.org/abstracts/210680)' Futoshi Ishii, Reiko Hayashi, Emiko Shinohara, and Motomi Beppu. [Session 135](https://ipc2021.popconf.org/sessions/135).
+- '[Indirect estimation of life expectancy by ethnicity in Chile](https://ipc2021.popconf.org/abstracts/211457)', Moisés Sandoval, and Marcela Alvear. [Session 135](https://ipc2021.popconf.org/sessions/135).
+- '[Probabilistic Projection of Subnational Life Expectancy](https://ipc2021.popconf.org/abstracts/211034)', Hana Sevcikova, and Adrian Raftery. [Session 135](https://ipc2021.popconf.org/sessions/135).
+
+### Population projection
+
+- '[Forecasting vital rates from demographic summary measures](https://ipc2021.popconf.org/abstracts/210318)', Carlo Giovanni G. Camarda and Jose Manuel Aburto. [Session 80](https://ipc2021.popconf.org/sessions/80). 
+
+### Other
+
+- '[Measuring the concentration of urban population in the negative exponential model using the Lorenz curve, Gini coefficient, Hoover dissimilarity index, and relative entropy](https://ipc2021.popconf.org/abstracts/210120)', Joel Cohen. [Session 83](https://ipc2021.popconf.org/sessions/83).
+
+
+
+
