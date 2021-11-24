@@ -12,6 +12,13 @@ Here is a list of formal demography presentations at the [IUSSP International Po
 
 If you or someone you know is presenting formal demography work and it is not included on the list below, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfKxR-KnFvhwyfEqFdC24DeucArPrMCb0MAKT_2oV_TO1QFMg/viewform).
 
+
+### Economic Demography
+
+#### Thursday, December 8
+
+- '[Population aging and retirement age policy: period balances, generational imbalances](https://ipc2021.popconf.org/abstracts/211460)', Fernando Fernandes, Cassio M. Turra, Eduardo L. G. Rios-Neto. [Session 172](https://ipc2021.popconf.org/sessions/172) (18:00-19:30 UTC).
+
 ### Fertility and Reproductive Measures
 
 #### Monday, December 6
@@ -22,8 +29,20 @@ If you or someone you know is presenting formal demography work and it is not in
 
 - '[Is NRR time-sensitive in measuring population replacement level?](https://ipc2021.popconf.org/abstracts/210503)', Arni Rao. [Session 83](https://ipc2021.popconf.org/sessions/83) (18:00-19:30 UTC).
 
+### Migration 
+
+#### Wednesday, December 8
+
+- '[Estimating Migration Flows between Europe and Regions of the World](https://ipc2021.popconf.org/abstracts/211824)', Georgios Aristotelous, [Session 111](https://ipc2021.popconf.org/sessions/111) (12:00-13:30 UTC).
+
+- '[Analysing the Uncertainty of Migration Scenarios through Macroeconomic Models](https://ipc2021.popconf.org/abstracts/211826)', Emily Barker, [Session 111](https://ipc2021.popconf.org/sessions/111) (12:00-13:30 UTC).
+
 
 ### Mortality 
+
+#### Monday, December 6
+
+'[When do parents bury a child? Uncertainty of offspring loss across the demographic transition](https://ipc2021.popconf.org/abstracts/210202)', Diego Alburez-Gutierrez, Ugofilippo Basellini, Emilio Zagheni. [Session 26](https://ipc2021.popconf.org/sessions/26) (14:00-15:30 UTC).
 
 #### Thursday, December 9
 
@@ -35,6 +54,8 @@ If you or someone you know is presenting formal demography work and it is not in
 - '[Lifesaving and a new ticket to life: A reappraisal of the resuscitation approach](https://ipc2021.popconf.org/abstracts/211693)', Vanessa di Lego. [Session 166](https://ipc2021.popconf.org/sessions/166) (16:00-17:30 UTC).
 
 #### Friday, December 10
+
+- '[Low-cost sibling methods for measuring adult mortality](https://ipc2021.popconf.org/abstracts/210384)', Bruno Masquelier, Ashira Menashe-Oren, Georges Reniers, Ian M. Timaeus. [Session 183](https://ipc2021.popconf.org/sessions/183) (18:00-09:30 UTC).
 
 - '[Cosmopolitan cities or the “Great White North”? A small-scale hierarchical cluster analysis of 4,689 Canadian census subdivisions](https://ipc2021.popconf.org/abstracts/211530)', Leora Courtney-Wolfman. [Session 197](https://ipc2021.popconf.org/sessions/197) (14:00-15:30 UTC).
 
