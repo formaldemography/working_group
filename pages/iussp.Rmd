@@ -65,6 +65,8 @@ If you or someone you know is presenting formal demography work and it is not in
 
 **Note: Submissions received after 4 December may not be added to this webpage in time for your presentation!!**
 
+Check out presentations in the following categories:
+
 ```{r}
 render_toc("iussp.Rmd")
 ```
