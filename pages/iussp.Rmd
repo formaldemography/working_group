@@ -12,27 +12,64 @@ Here is a list of formal demography presentations at the [IUSSP International Po
 
 If you or someone you know is presenting formal demography work and it is not included on the list below, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfKxR-KnFvhwyfEqFdC24DeucArPrMCb0MAKT_2oV_TO1QFMg/viewform).
 
-### Fertility and reproductive measures
 
-- '[Is NRR time-sensitive in measuring population replacement level?](https://ipc2021.popconf.org/abstracts/210503)', Arni Rao. [Session 83](https://ipc2021.popconf.org/sessions/83)
--  '[Imputation of full birth histories from census data: a rediscovered method for the detailed analysis of fertility]()', Ian Timeaus. [Session 39](https://ipc2021.popconf.org/sessions/39)
+### Economic Demography
+
+#### Thursday, December 8
+
+- '[Population aging and retirement age policy: period balances, generational imbalances](https://ipc2021.popconf.org/abstracts/211460)', Fernando Fernandes, Cassio M. Turra, Eduardo L. G. Rios-Neto. [Session 172](https://ipc2021.popconf.org/sessions/172) (18:00-19:30 UTC).
+
+### Fertility and Reproductive Measures
+
+#### Monday, December 6
+
+-  '[Imputation of full birth histories from census data: a rediscovered method for the detailed analysis of fertility]()', Ian Timeaus. [Session 39](https://ipc2021.popconf.org/sessions/39) (18:00-19:30 UTC).
+
+#### Tuesday, December 7
+
+- '[Is NRR time-sensitive in measuring population replacement level?](https://ipc2021.popconf.org/abstracts/210503)', Arni Rao. [Session 83](https://ipc2021.popconf.org/sessions/83) (18:00-19:30 UTC).
+
+### Migration 
+
+#### Wednesday, December 8
+
+- '[Estimating Migration Flows between Europe and Regions of the World](https://ipc2021.popconf.org/abstracts/211824)', Georgios Aristotelous, [Session 111](https://ipc2021.popconf.org/sessions/111) (12:00-13:30 UTC).
+
+- '[Analysing the Uncertainty of Migration Scenarios through Macroeconomic Models](https://ipc2021.popconf.org/abstracts/211826)', Emily Barker, [Session 111](https://ipc2021.popconf.org/sessions/111) (12:00-13:30 UTC).
+
 
 ### Mortality 
 
-- '[Cause of Death Reduce Life Table](https://ipc2021.popconf.org/abstracts/210297)', Vladimir Canudas-Romo, Jose Manuel Aburto, and Marius Pascariu. [Session 135](https://ipc2021.popconf.org/sessions/135).
--  '[The sensitivity of the Healthy Life Years indicator: Approaches for dealing with age-specific prevalence data](https://ipc2021.popconf.org/abstracts/211687)', Vanessa di Lego, and Markus Sauerberg. [Session 135](https://ipc2021.popconf.org/sessions/135).
--  '[Lifesaving and a new ticket to life: A reappraisal of the resuscitation approach](https://ipc2021.popconf.org/abstracts/211693)', Vanessa di Lego. [Session 166](https://ipc2021.popconf.org/sessions/166).
-- '[Application of Network Analysis to Multiple Causes of Death Data in Japan](https://ipc2021.popconf.org/abstracts/210680)' Futoshi Ishii, Reiko Hayashi, Emiko Shinohara, and Motomi Beppu. [Session 135](https://ipc2021.popconf.org/sessions/135).
-- '[Indirect estimation of life expectancy by ethnicity in Chile](https://ipc2021.popconf.org/abstracts/211457)', Moisés Sandoval, and Marcela Alvear. [Session 135](https://ipc2021.popconf.org/sessions/135).
-- '[Probabilistic Projection of Subnational Life Expectancy](https://ipc2021.popconf.org/abstracts/211034)', Hana Sevcikova, and Adrian Raftery. [Session 135](https://ipc2021.popconf.org/sessions/135).
+#### Monday, December 6
 
-### Population projection
+- '[When do parents bury a child? Uncertainty of offspring loss across the demographic transition](https://ipc2021.popconf.org/abstracts/210202)', Diego Alburez-Gutierrez, Ugofilippo Basellini, Emilio Zagheni. [Session 26](https://ipc2021.popconf.org/sessions/26) (14:00-15:30 UTC).
 
-- '[Forecasting vital rates from demographic summary measures](https://ipc2021.popconf.org/abstracts/210318)', Carlo Giovanni G. Camarda and Jose Manuel Aburto. [Session 80](https://ipc2021.popconf.org/sessions/80). 
+#### Thursday, December 9
+
+- '[Cause of Death Reduce Life Table](https://ipc2021.popconf.org/abstracts/210297)', Vladimir Canudas-Romo, Jose Manuel Aburto, and Marius Pascariu. [Session 135](https://ipc2021.popconf.org/sessions/135) (2:00-03:30 UTC).
+-  '[The sensitivity of the Healthy Life Years indicator: Approaches for dealing with age-specific prevalence data](https://ipc2021.popconf.org/abstracts/211687)', Vanessa di Lego, and Markus Sauerberg. [Session 135](https://ipc2021.popconf.org/sessions/135) (2:00-03:30 UTC).
+- '[Application of Network Analysis to Multiple Causes of Death Data in Japan](https://ipc2021.popconf.org/abstracts/210680)' Futoshi Ishii, Reiko Hayashi, Emiko Shinohara, and Motomi Beppu. [Session 135](https://ipc2021.popconf.org/sessions/135) (2:00-03:30 UTC).
+- '[Indirect estimation of life expectancy by ethnicity in Chile](https://ipc2021.popconf.org/abstracts/211457)', Moisés Sandoval, and Marcela Alvear. [Session 135](https://ipc2021.popconf.org/sessions/135) (2:00-03:30 UTC).
+- '[Probabilistic Projection of Subnational Life Expectancy](https://ipc2021.popconf.org/abstracts/211034)', Hana Sevcikova, and Adrian Raftery. [Session 135](https://ipc2021.popconf.org/sessions/135) (2:00-03:30 UTC).
+- '[Lifesaving and a new ticket to life: A reappraisal of the resuscitation approach](https://ipc2021.popconf.org/abstracts/211693)', Vanessa di Lego. [Session 166](https://ipc2021.popconf.org/sessions/166) (16:00-17:30 UTC).
+
+#### Friday, December 10
+
+- '[Low-cost sibling methods for measuring adult mortality](https://ipc2021.popconf.org/abstracts/210384)', Bruno Masquelier, Ashira Menashe-Oren, Georges Reniers, Ian M. Timaeus. [Session 183](https://ipc2021.popconf.org/sessions/183) (18:00-09:30 UTC).
+
+- '[Cosmopolitan cities or the “Great White North”? A small-scale hierarchical cluster analysis of 4,689 Canadian census subdivisions](https://ipc2021.popconf.org/abstracts/211530)', Leora Courtney-Wolfman. [Session 197](https://ipc2021.popconf.org/sessions/197) (14:00-15:30 UTC).
+
+### Population Projection
+
+#### Tuesday, December 7
+
+- '[Forecasting vital rates from demographic summary measures](https://ipc2021.popconf.org/abstracts/210318)', Carlo Giovanni G. Camarda and Jose Manuel Aburto. [Session 80](https://ipc2021.popconf.org/sessions/80) (16:00-17:30 UTC). 
 
 ### Other
 
-- '[Measuring the concentration of urban population in the negative exponential model using the Lorenz curve, Gini coefficient, Hoover dissimilarity index, and relative entropy](https://ipc2021.popconf.org/abstracts/210120)', Joel Cohen. [Session 83](https://ipc2021.popconf.org/sessions/83).
+#### Tuesday, December 7
+
+- '[Measuring the concentration of urban population in the negative exponential model using the Lorenz curve, Gini coefficient, Hoover dissimilarity index, and relative entropy](https://ipc2021.popconf.org/abstracts/210120)', Joel Cohen. [Session 83](https://ipc2021.popconf.org/sessions/83) (18:00-1930 UTC).
 
 
 
