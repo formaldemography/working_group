@@ -8,28 +8,31 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Formal Demography at IUSSP 2021
 
-Here is a list of formal demography presentations at the [IUSSP International Population Conference](https://ipc2021.popconf.org/), to be held 5-10 December. Papers are organized alphabetically by first author within broad themes. 
+Here is a list of formal demography presentations at the [IUSSP International Population Conference](https://ipc2021.popconf.org/), to be held 5-10 December. Papers are organized chronologically within broad themes. 
 
 If you or someone you know is presenting formal demography work and it is not included on the list below, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfKxR-KnFvhwyfEqFdC24DeucArPrMCb0MAKT_2oV_TO1QFMg/viewform). 
 
 **Note: Submissions received after 4 December may not be added to this webpage in time for your presentation!!**
 
-### Human Capital and Labour Markets
+### Data and Methods
 
-#### Monday, December 6
+#### Tuesday, December 7
 
-- '[Assessing the Demographic Impact of Migration on the Working Age Population in European Regions](https://ipc2021.popconf.org/abstracts/210392)', Daniela Ghio, Anne Goujon, Fabrizio Natale. [Session 9](https://ipc2021.popconf.org/sessions/9) (08:00-09:30 UTC). 
-- '[China's low fertility may not hinder future prosperity](https://ipc2021.popconf.org/abstracts/210431)', Guillaume Marois, Stuart Gietel-Basten, Wolfgang Lutz. [Session 9](https://ipc2021.popconf.org/sessions/9) (08:00-09:30 UTC). 
+- '[POPP. Project for the optical character recognition of Parisian population censuses](https://ipc2021.popconf.org/abstracts/210135)', Sandra Brée, Thierry Paquet, François Merveille, Thomas Constum, Nicolas Kempf, & Pierrick Traounez. [Session 80](https://ipc2021.popconf.org/sessions/80) (16:00-17:30 UTC). 
 
-- '[Female labour force participation in sub-Saharan Africa: A cohort analysis](https://ipc2021.popconf.org/abstracts/210810)', Andreas Backhaus, Elke Loichinger. [Session 28](https://ipc2021.popconf.org/sessions/28) (14:00-15:30 UTC). 
--'[Unequal Duties and Unequal Retirement: Decomposing the Women’s Labor Force Decline in Post-Reform China](https://ipc2021.popconf.org/abstracts/210422)', Kai Feng. [Session 28](https://ipc2021.popconf.org/sessions/28) (14:00-15:30 UTC). 
-- '[The motherhood penalty in the Brazilian labor market: an age-period-cohort analysis](https://ipc2021.popconf.org/abstracts/211717)', Iracy Pimenta, Simone Wajnman, Gilvan R. Guedes. [Session 28](https://ipc2021.popconf.org/sessions/28) (14:00-15:30 UTC). 
+- '[Measuring the concentration of urban population in the negative exponential model using the Lorenz curve, Gini coefficient, Hoover dissimilarity index, and relative entropy](https://ipc2021.popconf.org/abstracts/210120)', Joel E. E. Cohen. [Session 83](https://ipc2021.popconf.org/sessions/83) (18:00-19:30 UTC). 
+
+- '[Global Population Change & Economic Convergence of World Countries: Meaning and Implications for Global Inequality](https://ipc2021.popconf.org/abstracts/211738)', Parfait Eloundou-Enyegue, Sarah Giroux, Mila Cantar, Shoshanna Hoover, Kristie Lebeau, Kimberly Pollock, Clara Rice, & Michael Zhang. [Session 88](https://ipc2021.popconf.org/sessions/88) (22:00-23:30). 
+- '[Bayesian Projections of the Total Fertility Rate for Improvements in Education and Family Planning](https://ipc2021.popconf.org/abstracts/210521)', Daphne Liu & Adrian Raftery. [Session 88](https://ipc2021.popconf.org/sessions/88) (22:00-23:30). 
+- '[Age- and Sex-Specific Estimates of Migration Flows in Asia-Pacific](https://ipc2021.popconf.org/abstracts/210301)', Tianyu Shen, James Raymer, & Qing Guan. [Session 88](https://ipc2021.popconf.org/sessions/88) (22:00-23:30). 
+- '[Future levels of fertility in sub-Saharan Africa: Parity-based projections](https://ipc2021.popconf.org/abstracts/210891)', Thomas Spoorenberg & Mathias Lerch. [Session 88](https://ipc2021.popconf.org/sessions/88) (22:00-23:30). 
+- '[https://ipc2021.popconf.org/abstracts/210416](https://ipc2021.popconf.org/abstracts/210416)', Arkadiusz Wisniowski. [Session 88](https://ipc2021.popconf.org/sessions/88) (22:00-23:30).  
 
 ### Economic Demography
 
 #### Thursday, December 8
 
-- '[Population aging and retirement age policy: period balances, generational imbalances](https://ipc2021.popconf.org/abstracts/211460)', Fernando Fernandes, Cassio M. Turra, Eduardo L. G. Rios-Neto. [Session 172](https://ipc2021.popconf.org/sessions/172) (18:00-19:30 UTC).
+- '[Population aging and retirement age policy: period balances, generational imbalances](https://ipc2021.popconf.org/abstracts/211460)', Fernando Fernandes, Cassio M. Turra, & Eduardo L. G. Rios-Neto. [Session 172](https://ipc2021.popconf.org/sessions/172) (18:00-19:30 UTC).
 
 ### Fertility, Family Planning, and Reproductive Health 
 
@@ -37,7 +40,7 @@ If you or someone you know is presenting formal demography work and it is not in
 
 - '[Female Genital Mutilation/Cutting in the Central African Republic: A demographic perspective](https://ipc2021.popconf.org/abstracts/210532)', José Antonio Ortega. [Session 8](https://ipc2021.popconf.org/sessions/8) (08:00-09:30 UTC). 
 
--  '[Improving methodology for fertility forecasting through the incorporation of individual-level data and population-level parity information](https://ipc2021.popconf.org/abstracts/210191)', Joanne Ellison, Ann M. Berrington, Erengul Dodd, Jonathan J. Forster, Jakub Bijak. [Session 39](https://ipc2021.popconf.org/sessions/39) (18:00-19:30 UTC).
+-  '[Improving methodology for fertility forecasting through the incorporation of individual-level data and population-level parity information](https://ipc2021.popconf.org/abstracts/210191)', Joanne Ellison, Ann M. Berrington, Erengul Dodd, Jonathan J. Forster, & Jakub Bijak. [Session 39](https://ipc2021.popconf.org/sessions/39) (18:00-19:30 UTC).
 -  '[Imputation of full birth histories from census data: a rediscovered method for the detailed analysis of fertility](https://ipc2021.popconf.org/abstracts/211656)', Ian Timeaus. [Session 39](https://ipc2021.popconf.org/sessions/39) (18:00-19:30 UTC).
 
 #### Tuesday, December 7
@@ -47,27 +50,27 @@ If you or someone you know is presenting formal demography work and it is not in
 
 #### Wednesday, December 8
 
-- '[Age Patterns of Contraceptive Use and Needs: A Global Comparison](https://ipc2021.popconf.org/abstracts/211737)', Vladimira Kantorova, Mark Wheldon, Philipp Ueffing, Aisha Dasgupta. [Session 117](https://ipc2021.popconf.org/sessions/117) (14:00-15:30 UTC). 
-- '[Global changes in contraceptive method mix and outlook to 2030](https://ipc2021.popconf.org/abstracts/210339)', Philipp Ueffing, Vladimira Kantorova, Mark Wheldon, Joseph Molitoris, Aisha Dasgupta. [Session 117](https://ipc2021.popconf.org/sessions/117) (14:00-15:30 UTC). 
+- '[Age Patterns of Contraceptive Use and Needs: A Global Comparison](https://ipc2021.popconf.org/abstracts/211737)', Vladimira Kantorova, Mark Wheldon, Philipp Ueffing, & Aisha Dasgupta. [Session 117](https://ipc2021.popconf.org/sessions/117) (14:00-15:30 UTC). 
+- '[Global changes in contraceptive method mix and outlook to 2030](https://ipc2021.popconf.org/abstracts/210339)', Philipp Ueffing, Vladimira Kantorova, Mark Wheldon, Joseph Molitoris, & Aisha Dasgupta. [Session 117](https://ipc2021.popconf.org/sessions/117) (14:00-15:30 UTC). 
 
-- '[Country-level patterns in unintended pregnancy and abortion 2015–2019: a description of country-specific estimates from a Bayesian hierarchical model](https://ipc2021.popconf.org/abstracts/210329)', Jonathan Bearak, Anna Popinchalk, Cynthia Beavin, Bela Ganatra, Ann-Beth Moller, Özge Tunçalp, Leontine Alkema. [Session 128](https://ipc2021.popconf.org/sessions/128) (18:00-19:30 UTC). 
+- '[Country-level patterns in unintended pregnancy and abortion 2015–2019: a description of country-specific estimates from a Bayesian hierarchical model](https://ipc2021.popconf.org/abstracts/210329)', Jonathan Bearak, Anna Popinchalk, Cynthia Beavin, Bela Ganatra, Ann-Beth Moller, Özge Tunçalp, & Leontine Alkema. [Session 128](https://ipc2021.popconf.org/sessions/128) (18:00-19:30 UTC). 
 
 
 #### Thursday, December 9
 
-- '[Probabilistic projection of subnational total fertility rate in India and its 15 major states, 1950-2100](https://ipc2021.popconf.org/abstracts/211221)', Ankita Srivastava, Nandita Saikia. [Session 138](https://ipc2021.popconf.org/sessions/138) (04:00-05:30 UTC). 
+- '[Probabilistic projection of subnational total fertility rate in India and its 15 major states, 1950-2100](https://ipc2021.popconf.org/abstracts/211221)', Ankita Srivastava & Nandita Saikia. [Session 138](https://ipc2021.popconf.org/sessions/138) (04:00-05:30 UTC). 
 
 - '[Fertility in Italian regions: analysis and estimation of cohort indicators](https://ipc2021.popconf.org/abstracts/210849)', Sara Miccoli. [Session 144](https://ipc2021.popconf.org/sessions/144) (08:00-09:30 UTC).
 
-- '[Approaches to Study Parity Progression of Fertility with illustrative application to India’s National Family Health Survey](https://ipc2021.popconf.org/abstracts/211337)', Padum Narayan, Arvind Pandey. [Session 147](https://ipc2021.popconf.org/sessions/147) (10:00-11:30 UTC).
+- '[Approaches to Study Parity Progression of Fertility with illustrative application to India’s National Family Health Survey](https://ipc2021.popconf.org/abstracts/211337)', Padum Narayan & Arvind Pandey. [Session 147](https://ipc2021.popconf.org/sessions/147) (10:00-11:30 UTC).
 
 #### Friday, December 10
 
-- '[Fertility transition in Ethiopia: A study using reproductive outcome measures of Bongaarts and Casterline](https://ipc2021.popconf.org/abstracts/210314)', Mezgebo Gebretsadikan, Krishna Ponnapalli. [Session 179](https://ipc2021.popconf.org/sessions/179) (06:00-07:30 UTC)
-- '[Low fertility in Tehran: An agent-based modeling approach](https://ipc2021.popconf.org/abstracts/211657)', Mohammad Jalal Abbasi-Shavazi, Nasibeh Esmaeili, Hajiieh Bibi Razeghi Nasrabad, Fatemeh Torabi. [Session 179](https://ipc2021.popconf.org/sessions/179) (06:00-07:30 UTC)
-- '[Scenario-based fertility projections incorporating impacts of COVID-19](https://ipc2021.popconf.org/abstracts/210288)', Ann M. Berrington, Joanne Ellison, Bernice Kuang, Sindhu Vasireddy, Hill Kulu. [Session 179](https://ipc2021.popconf.org/sessions/179) (06:00-07:30 UTC)
+- '[Fertility transition in Ethiopia: A study using reproductive outcome measures of Bongaarts and Casterline](https://ipc2021.popconf.org/abstracts/210314)', Mezgebo Gebretsadikan & Krishna Ponnapalli. [Session 179](https://ipc2021.popconf.org/sessions/179) (06:00-07:30 UTC)
+- '[Low fertility in Tehran: An agent-based modeling approach](https://ipc2021.popconf.org/abstracts/211657)', Mohammad Jalal Abbasi-Shavazi, Nasibeh Esmaeili, Hajiieh Bibi Razeghi Nasrabad, & Fatemeh Torabi. [Session 179](https://ipc2021.popconf.org/sessions/179) (06:00-07:30 UTC)
+- '[Scenario-based fertility projections incorporating impacts of COVID-19](https://ipc2021.popconf.org/abstracts/210288)', Ann M. Berrington, Joanne Ellison, Bernice Kuang, Sindhu Vasireddy,& Hill Kulu. [Session 179](https://ipc2021.popconf.org/sessions/179) (06:00-07:30 UTC)
 
-- '[Estimating contraceptive needs in the postpartum period: A population-level comparison of five measures of unmet need and demand for contraception among women in Ethiopia](https://ipc2021.popconf.org/abstracts/211077)', Celia Karp, Sophia Magalona, Solomon Shiferaw, Assefa Seme, Linnea Zimmerman. [Session 196](https://ipc2021.popconf.org/sessions/196) (14:00-15:30 UTC). 
+- '[Estimating contraceptive needs in the postpartum period: A population-level comparison of five measures of unmet need and demand for contraception among women in Ethiopia](https://ipc2021.popconf.org/abstracts/211077)', Celia Karp, Sophia Magalona, Solomon Shiferaw, Assefa Seme, & Linnea Zimmerman. [Session 196](https://ipc2021.popconf.org/sessions/196) (14:00-15:30 UTC). 
 
 ### Health
 
@@ -75,77 +78,92 @@ If you or someone you know is presenting formal demography work and it is not in
 
 - '[Entangling the Economic impact of disease on Households in India](https://ipc2021.popconf.org/abstracts/211491)', Srikanth Reddy Umenthala. [Poster Session 7](https://ipc2021.popconf.org/sessions/P7#111) (11:00-12:30 UTC).
 
+### Human Capital and Labour Markets
+
+#### Monday, December 6
+
+- '[Assessing the Demographic Impact of Migration on the Working Age Population in European Regions](https://ipc2021.popconf.org/abstracts/210392)', Daniela Ghio, Anne Goujon, & Fabrizio Natale. [Session 9](https://ipc2021.popconf.org/sessions/9) (08:00-09:30 UTC). 
+- '[China's low fertility may not hinder future prosperity](https://ipc2021.popconf.org/abstracts/210431)', Guillaume Marois, Stuart Gietel-Basten, & Wolfgang Lutz. [Session 9](https://ipc2021.popconf.org/sessions/9) (08:00-09:30 UTC). 
+
+- '[Female labour force participation in sub-Saharan Africa: A cohort analysis](https://ipc2021.popconf.org/abstracts/210810)', Andreas Backhaus & Elke Loichinger. [Session 28](https://ipc2021.popconf.org/sessions/28) (14:00-15:30 UTC). 
+-'[Unequal Duties and Unequal Retirement: Decomposing the Women’s Labor Force Decline in Post-Reform China](https://ipc2021.popconf.org/abstracts/210422)', Kai Feng. [Session 28](https://ipc2021.popconf.org/sessions/28) (14:00-15:30 UTC). 
+- '[The motherhood penalty in the Brazilian labor market: an age-period-cohort analysis](https://ipc2021.popconf.org/abstracts/211717)', Iracy Pimenta, Simone Wajnman, & Gilvan R. Guedes. [Session 28](https://ipc2021.popconf.org/sessions/28) (14:00-15:30 UTC). 
+
 ### Migration 
 
 #### Monday, December 6
 
-- '[Modeling and Forecasting Bilateral Migration Flows for All Countries](https://ipc2021.popconf.org/abstracts/210639)', Nathan Welch, Adrian Raftery. [Session 34](https://ipc2021.popconf.org/sessions/34) (16:00-17:30 UTC). 
-- '[Estimates of migration flows and recent immigration stocks in Latin America. How much are they alike?](https://ipc2021.popconf.org/abstracts/210651)', Julieta Bengochea, Emanuele Del Fava, Victoria Prieto Rosas, Emilio Zagheni. [Session 34](https://ipc2021.popconf.org/sessions/34) (16:00-17:30 UTC). 
+- '[Modeling and Forecasting Bilateral Migration Flows for All Countries](https://ipc2021.popconf.org/abstracts/210639)', Nathan Welch & Adrian Raftery. [Session 34](https://ipc2021.popconf.org/sessions/34) (16:00-17:30 UTC). 
+- '[Estimates of migration flows and recent immigration stocks in Latin America. How much are they alike?](https://ipc2021.popconf.org/abstracts/210651)', Julieta Bengochea, Emanuele Del Fava, Victoria Prieto Rosas, & Emilio Zagheni. [Session 34](https://ipc2021.popconf.org/sessions/34) (16:00-17:30 UTC). 
 
 #### Tuesday, December 7
 
-- '[Gender and educational differences in internal migration](https://ipc2021.popconf.org/abstracts/210664), Guy J. Abel, Aude Bernard, Raya Muttarak. [Session 45](https://ipc2021.popconf.org/sessions/45) (04:00-05:30 UTC). 
+- '[Gender and educational differences in internal migration](https://ipc2021.popconf.org/abstracts/210664)', Guy J. Abel, Aude Bernard, & Raya Muttarak. [Session 45](https://ipc2021.popconf.org/sessions/45) (04:00-05:30 UTC). 
 - '[Cross national comparisons of the drivers of rural-urban migration based on millions of individual census records](https://ipc2021.popconf.org/abstracts/210861)', Ziyue Huang. [Session 45](https://ipc2021.popconf.org/sessions/45) (04:00-05:30 UTC). 
 - '[Marriage Migration in India: The Enlargement of Marriage Markets in the Era of Declining Sex Ratios](https://ipc2021.popconf.org/abstracts/211126)', Enu Anand. [Session 45](https://ipc2021.popconf.org/sessions/45) (04:00-05:30 UTC). 
 
-- '[How can migration, workforce participation, and education balance the cost of aging in Europe?](https://ipc2021.popconf.org/abstracts/210099)], Guillaume Marois, Alain Bélanger, Wolfgang Lutz. [Session 51](https://ipc2021.popconf.org/sessions/51) (08:00-09:30 UTC). 
+- '[How can migration, workforce participation, and education balance the cost of aging in Europe?](https://ipc2021.popconf.org/abstracts/210099)', Guillaume Marois, Alain Bélanger, & Wolfgang Lutz. [Session 51](https://ipc2021.popconf.org/sessions/51) (08:00-09:30 UTC). 
 - '[Would Sustained Immigration Prevent Long-Run Population Decrease in European Countries?](https://ipc2021.popconf.org/abstracts/210304)', Nick Parr. [Session 51](https://ipc2021.popconf.org/sessions/51) (08:00-09:30 UTC). 
 
 #### Wednesday, December 8
 
 - '[Estimating Migration Flows between Europe and Regions of the World](https://ipc2021.popconf.org/abstracts/211824)', Georgios Aristotelous, [Session 111](https://ipc2021.popconf.org/sessions/111) (12:00-13:30 UTC).
 - '[Analysing the Uncertainty of Migration Scenarios through Macroeconomic Models](https://ipc2021.popconf.org/abstracts/211826)', Emily Barker, [Session 111](https://ipc2021.popconf.org/sessions/111) (12:00-13:30 UTC).
-- '[Internal Migration and Life Course Transitions in Brazil](https://ipc2021.popconf.org/abstracts/210800)', Reinaldo Santos, Alisson F. Barbieri, Ernesto Amaral. [Session 111](https://ipc2021.popconf.org/sessions/119) (14:00-15:30 UTC).
+- '[Internal Migration and Life Course Transitions in Brazil](https://ipc2021.popconf.org/abstracts/210800)', Reinaldo Santos, Alisson F. Barbieri, & Ernesto Amaral. [Session 111](https://ipc2021.popconf.org/sessions/119) (14:00-15:30 UTC).
 
 #### Thursday, December 9
 
-- '[Bayesian Estimation and Projections of Internal Migration Flows in Italy](https://ipc2021.popconf.org/abstracts/211055)', Emanuela Furfaro, Federico Castelletti, Adrian Raftery. [Session 170](https://ipc2021.popconf.org/sessions/170) (16:00-1730 UTC). 
-- '[Novels approaches based on sequences analysis and graphs for grasping complexity of migrations](https://ipc2021.popconf.org/abstracts/211243)', Francois Mialhe, Florence De Longueville, Samuel Bonnand, Sabine J. F. Henry. [Session 170](https://ipc2021.popconf.org/sessions/170) (16:00-1730 UTC). 
-- '[The mobility transition in Asia between 1970-2011](https://ipc2021.popconf.org/abstracts/210740)', Wanli Nie, Ashira Menashe-Oren, Philippe Bocquier. [Session 170](https://ipc2021.popconf.org/sessions/170) (16:00-1730 UTC). 
-- '[Practical geospatial and sociodemographic predictors of human mobility](https://ipc2021.popconf.org/abstracts/210821)', Corrine Ruktanonchai, Shengjie Lai, Chigozie E Utazi, Adam Sadilek, Andrew J. Tatem, Alessandro Sorichetta. [Session 170](https://ipc2021.popconf.org/sessions/170) (16:00-1730 UTC). 
+- '[Bayesian Estimation and Projections of Internal Migration Flows in Italy](https://ipc2021.popconf.org/abstracts/211055)', Emanuela Furfaro, Federico Castelletti, & Adrian Raftery. [Session 170](https://ipc2021.popconf.org/sessions/170) (16:00-1730 UTC). 
+- '[Novels approaches based on sequences analysis and graphs for grasping complexity of migrations](https://ipc2021.popconf.org/abstracts/211243)', Francois Mialhe, Florence De Longueville, Samuel Bonnand, & Sabine J. F. Henry. [Session 170](https://ipc2021.popconf.org/sessions/170) (16:00-1730 UTC). 
+- '[The mobility transition in Asia between 1970-2011](https://ipc2021.popconf.org/abstracts/210740)', Wanli Nie, Ashira Menashe-Oren, & Philippe Bocquier. [Session 170](https://ipc2021.popconf.org/sessions/170) (16:00-1730 UTC). 
+- '[Practical geospatial and sociodemographic predictors of human mobility](https://ipc2021.popconf.org/abstracts/210821)', Corrine Ruktanonchai, Shengjie Lai, Chigozie E Utazi, Adam Sadilek, Andrew J. Tatem, & Alessandro Sorichetta. [Session 170](https://ipc2021.popconf.org/sessions/170) (16:00-1730 UTC). 
 
 #### Friday, December 10
 
-- '[Where are the Spaniards moving after the outbreak of the COVID-19 pandemic?](https://ipc2021.popconf.org/abstracts/210979)', Miguel González-Leonardo, Antonio Lopez-Gay. [Session 180](https://ipc2021.popconf.org/sessions/180) (08:00-09:30 UTC). 
+- '[Where are the Spaniards moving after the outbreak of the COVID-19 pandemic?](https://ipc2021.popconf.org/abstracts/210979)', Miguel González-Leonardo & Antonio Lopez-Gay. [Session 180](https://ipc2021.popconf.org/sessions/180) (08:00-09:30 UTC). 
 
 ### Modelling the Demographic Dividend and Policy Implications
 
 #### Thursday, December 8
 
-- '[Savings and the Demographic Dividend: Evidence from a Macrosimulation Model](https://ipc2021.popconf.org/abstracts/211612)', Joshua K. Wilde, Mahesh Karra. [Session 143](https://ipc2021.popconf.org/sessions/143) (08:00-09:30 UTC). 
+- '[Savings and the Demographic Dividend: Evidence from a Macrosimulation Model](https://ipc2021.popconf.org/abstracts/211612)', Joshua K. Wilde & Mahesh Karra. [Session 143](https://ipc2021.popconf.org/sessions/143) (08:00-09:30 UTC). 
 
 #### Friday, December 9
 
-- '[Labour force projections in India until 2060 and implications for the demographic dividend](https://ipc2021.popconf.org/abstracts/210098)', Guillaume Marois, Ekaterina Zhelenkova, Balhasan Ali. [Session 189](https://ipc2021.popconf.org/sessions/189) (12:00-13:30 UTC). 
-- '[Poverty, Education and Human Capital in India: The Age Education Structure](https://ipc2021.popconf.org/abstracts/211593)', Sayeed Unisa, Tejal Lakhan, Neethu Naik. [Session 189](https://ipc2021.popconf.org/sessions/189) (12:00-13:30 UTC). 
+- '[Labour force projections in India until 2060 and implications for the demographic dividend](https://ipc2021.popconf.org/abstracts/210098)', Guillaume Marois, Ekaterina Zhelenkova, & Balhasan Ali. [Session 189](https://ipc2021.popconf.org/sessions/189) (12:00-13:30 UTC). 
+- '[Poverty, Education and Human Capital in India: The Age Education Structure](https://ipc2021.popconf.org/abstracts/211593)', Sayeed Unisa, Tejal Lakhan, & Neethu Naik. [Session 189](https://ipc2021.popconf.org/sessions/189) (12:00-13:30 UTC). 
 
 ### Mortality 
 
 #### Monday, December 6
 
-- '[When do parents bury a child? Uncertainty of offspring loss across the demographic transition](https://ipc2021.popconf.org/abstracts/210202)', Diego Alburez-Gutierrez, Ugofilippo Basellini, Emilio Zagheni. [Session 26](https://ipc2021.popconf.org/sessions/26) (14:00-15:30 UTC).
+- '[When do parents bury a child? Uncertainty of offspring loss across the demographic transition](https://ipc2021.popconf.org/abstracts/210202)', Diego Alburez-Gutierrez, Ugofilippo Basellini, & Emilio Zagheni. [Session 26](https://ipc2021.popconf.org/sessions/26) (14:00-15:30 UTC).
+
+#### Tuesday, December 7
+
+- '[Estimating and forecasting age-specific maternal mortality rates in Brazil](https://ipc2021.popconf.org/abstracts/211061)', Bernardo L. Queiroz, Marcia C. Castro, & Ricardo Pedroso. [Session 80](https://ipc2021.popconf.org/sessions/80) (16:00-17:30 UTC). 
 
 #### Wednesday, December 8 
 
-- '[Modelling weekly mortality incorporating annual trends](https://ipc2021.popconf.org/abstracts/210936)', Joanne Ellison, Jason Hilton, Erengul Dodd, Jonathan J. Forster, Peter W. F. Smith, Jakub Bijak. [Session 118](https://ipc2021.popconf.org/sessions/118) (14:00-15:30 UTC).
+- '[Modelling weekly mortality incorporating annual trends](https://ipc2021.popconf.org/abstracts/210936)', Joanne Ellison, Jason Hilton, Erengul Dodd, Jonathan J. Forster, Peter W. F. Smith, & Jakub Bijak. [Session 118](https://ipc2021.popconf.org/sessions/118) (14:00-15:30 UTC).
 
-- '[Regional mortality inequalities in the Netherlands and the role of internal migration](https://ipc2021.popconf.org/abstracts/211636)', Adrien Remund, Fanny Janssen, Ernst van der Hoeven. [Session 119](https://ipc2021.popconf.org/sessions/119) (14:00-15:30 UTC). 
+- '[Regional mortality inequalities in the Netherlands and the role of internal migration](https://ipc2021.popconf.org/abstracts/211636)', Adrien Remund, Fanny Janssen, & Ernst van der Hoeven. [Session 119](https://ipc2021.popconf.org/sessions/119) (14:00-15:30 UTC). 
 
 #### Thursday, December 9
 
-- '[Cause of Death Reduce Life Table](https://ipc2021.popconf.org/abstracts/210297)', Vladimir Canudas-Romo, Jose Manuel Aburto, and Marius Pascariu. [Session 135](https://ipc2021.popconf.org/sessions/135) (2:00-03:30 UTC).
--  '[The sensitivity of the Healthy Life Years indicator: Approaches for dealing with age-specific prevalence data](https://ipc2021.popconf.org/abstracts/211687)', Vanessa di Lego, and Markus Sauerberg. [Session 135](https://ipc2021.popconf.org/sessions/135) (2:00-03:30 UTC).
-- '[Application of Network Analysis to Multiple Causes of Death Data in Japan](https://ipc2021.popconf.org/abstracts/210680)' Futoshi Ishii, Reiko Hayashi, Emiko Shinohara, and Motomi Beppu. [Session 135](https://ipc2021.popconf.org/sessions/135) (2:00-03:30 UTC).
-- '[Indirect estimation of life expectancy by ethnicity in Chile](https://ipc2021.popconf.org/abstracts/211457)', Moisés Sandoval, and Marcela Alvear. [Session 135](https://ipc2021.popconf.org/sessions/135) (2:00-03:30 UTC).
-- '[Probabilistic Projection of Subnational Life Expectancy](https://ipc2021.popconf.org/abstracts/211034)', Hana Sevcikova, and Adrian Raftery. [Session 135](https://ipc2021.popconf.org/sessions/135) (2:00-03:30 UTC).
+- '[Cause of Death Reduce Life Table](https://ipc2021.popconf.org/abstracts/210297)', Vladimir Canudas-Romo, Jose Manuel Aburto, & Marius Pascariu. [Session 135](https://ipc2021.popconf.org/sessions/135) (2:00-03:30 UTC).
+-  '[The sensitivity of the Healthy Life Years indicator: Approaches for dealing with age-specific prevalence data](https://ipc2021.popconf.org/abstracts/211687)', Vanessa di Lego & Markus Sauerberg. [Session 135](https://ipc2021.popconf.org/sessions/135) (2:00-03:30 UTC).
+- '[Application of Network Analysis to Multiple Causes of Death Data in Japan](https://ipc2021.popconf.org/abstracts/210680)' Futoshi Ishii, Reiko Hayashi, Emiko Shinohara, & Motomi Beppu. [Session 135](https://ipc2021.popconf.org/sessions/135) (2:00-03:30 UTC).
+- '[Indirect estimation of life expectancy by ethnicity in Chile](https://ipc2021.popconf.org/abstracts/211457)', Moisés Sandoval & Marcela Alvear. [Session 135](https://ipc2021.popconf.org/sessions/135) (2:00-03:30 UTC).
+- '[Probabilistic Projection of Subnational Life Expectancy](https://ipc2021.popconf.org/abstracts/211034)', Hana Sevcikova & Adrian Raftery. [Session 135](https://ipc2021.popconf.org/sessions/135) (2:00-03:30 UTC).
 
-- '[Trends and pattern in excess female under-5 mortality in India](https://ipc2021.popconf.org/abstracts/210700)', Vandana Tamrakar, Nandita Saikia. [Session 146](https://ipc2021.popconf.org/sessions/146) (08:00-09:30 UTC). 
+- '[Trends and pattern in excess female under-5 mortality in India](https://ipc2021.popconf.org/abstracts/210700)', Vandana Tamrakar & Nandita Saikia. [Session 146](https://ipc2021.popconf.org/sessions/146) (08:00-09:30 UTC). 
 
 - '[Lifesaving and a new ticket to life: A reappraisal of the resuscitation approach](https://ipc2021.popconf.org/abstracts/211693)', Vanessa di Lego. [Session 166](https://ipc2021.popconf.org/sessions/166) (16:00-17:30 UTC).
 
 #### Friday, December 10
 
-- '[Low-cost sibling methods for measuring adult mortality](https://ipc2021.popconf.org/abstracts/210384)', Bruno Masquelier, Ashira Menashe-Oren, Georges Reniers, Ian M. Timaeus. [Session 183](https://ipc2021.popconf.org/sessions/183) (18:00-09:30 UTC).
+- '[Low-cost sibling methods for measuring adult mortality](https://ipc2021.popconf.org/abstracts/210384)', Bruno Masquelier, Ashira Menashe-Oren, Georges Reniers, & Ian M. Timaeus. [Session 183](https://ipc2021.popconf.org/sessions/183) (18:00-09:30 UTC).
 
 - '[Cosmopolitan cities or the “Great White North”? A small-scale hierarchical cluster analysis of 4,689 Canadian census subdivisions](https://ipc2021.popconf.org/abstracts/211530)', Leora Courtney-Wolfman. [Session 197](https://ipc2021.popconf.org/sessions/197) (14:00-15:30 UTC).
 
@@ -153,7 +171,7 @@ If you or someone you know is presenting formal demography work and it is not in
 
 #### Tuesday, December 7
 
-- '[Forecasting vital rates from demographic summary measures](https://ipc2021.popconf.org/abstracts/210318)', Carlo Giovanni G. Camarda and Jose Manuel Aburto. [Session 80](https://ipc2021.popconf.org/sessions/80) (16:00-17:30 UTC). 
+- '[Forecasting vital rates from demographic summary measures](https://ipc2021.popconf.org/abstracts/210318)', Carlo Giovanni G. Camarda & Jose Manuel Aburto. [Session 80](https://ipc2021.popconf.org/sessions/80) (16:00-17:30 UTC). 
 
 ### Other
 
@@ -167,11 +185,11 @@ If you or someone you know is presenting formal demography work and it is not in
 #### Monday, December 6
 
 - '[The End of Urban Sprawl? A Swiss Assessment from 1966 to 2018](https://ipc2021.popconf.org/abstracts/210772)', Mathias Lerch. [Session 38](https://ipc2021.popconf.org/sessions/38) (18:00-19:30 UTC).
-- '[Toward a global urbanization analysis for subnational territories by exploring remote sensing-based products](https://ipc2021.popconf.org/abstracts/211058)', Hamidreza Zoraghein, Leiwen Jiang. [Session 38](https://ipc2021.popconf.org/sessions/38) (18:00-19:30 UTC).
+- '[Toward a global urbanization analysis for subnational territories by exploring remote sensing-based products](https://ipc2021.popconf.org/abstracts/211058)', Hamidreza Zoraghein & Leiwen Jiang. [Session 38](https://ipc2021.popconf.org/sessions/38) (18:00-19:30 UTC).
 
 #### Thursday, December 9
 
-- '[Dynamics of Fertility and Family Planning among the Urban Poor in India: Findings from NFHS 2, 3 and 4](https://ipc2021.popconf.org/abstracts/210038)', Siddharth Agarwal, S Kaushik. [Session 158](https://ipc2021.popconf.org/sessions/158) (14:00-15:30 UTC). 
+- '[Dynamics of Fertility and Family Planning among the Urban Poor in India: Findings from NFHS 2, 3 and 4](https://ipc2021.popconf.org/abstracts/210038)', Siddharth Agarwal & S Kaushik. [Session 158](https://ipc2021.popconf.org/sessions/158) (14:00-15:30 UTC). 
 
 
 
