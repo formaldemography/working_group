@@ -6,7 +6,7 @@ The Formal Demography Working Group aims to bring together formal demography sch
 2. Create a supportive and inclusive environment to learn, and encourage people to work with formal methods
 3. Discuss the past, present and future of formal demography 
 
-We aim to run thematic meetings on **research**, **training**, and **forums**. More details can be found <a href="https://github.com/formaldemography/working_group/blob/main/pages/structure.html">Here</a>
+We aim to run thematic meetings on **research**, **training**, and **forums**. More details can be found <a href="https://github.com/formaldemography/working_group/blob/main/pages/structure.html">here</a>
 
 ### Sign-up
 
