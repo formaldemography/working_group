@@ -20,8 +20,10 @@ If you would like to be included on the mailing list sign up [here](https://docs
     + [Recording](https://www.youtube.com/watch?v=ROQK0JZr7uU) 
     + [Monica's slides](https://github.com/formaldemography/working_group/blob/main/presentations/fdwg.pdf) 
     + [Vanessa's Slides](https://github.com/formaldemography/working_group/blob/main/presentations/Meeting_29_10_2021.ppt)
-- **Meeting 2: Decomposition methods**, Friday 3 December at 10am ET 
-    + [Tim Riffe](https://github.com/timriffe) will talk about decomposition methods and how to implement them in R
+- **Meeting 2: Decomposition methods**, Friday 3 December at 10am ET. [Tim Riffe](https://github.com/timriffe) on decomposition methods and how to implement them in R
+    + [Recording](https://www.youtube.com/watch?v=J_6C82TN_WU) 
+    + [Tim's slides](https://tinyurl.com/2p88j4md)
+    + [Tim's code and materials](https://github.com/timriffe/FDWG_decomp_code)
 
 
 ## Useful Links
