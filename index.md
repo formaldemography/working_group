@@ -16,7 +16,7 @@ If you would like to be included on the mailing list sign up [here](https://docs
 
 **Title:** 'My favorite formal demography paper: The Population Momentum of Preston & Guillot (1997, Genus)'
 
-**Time:** Friday 28 January at 1pm ET
+**Time:** Friday 28 January at 1pm ET. Sign up above to get the Zoom link.
 
 
 [Roland Rau](https://www.demogr.mpg.de/en/about_us_6113/staff_directory_1899/roland_rau_525/) (Professor of Demography at the University of Rostock and Research Fellow, MPIDR) will discuss his favorite formal demography paper:
@@ -39,8 +39,6 @@ We may even have some special guests join in the discussion!
 
 
 ## Links
-
-### Other stuff
 
 - [Demographic Research: Special Collection on Formal Relationships](https://www.demographic-research.org/special/8/default.htm)
 - [Berkeley Formal Demography Workshop 2021](https://populationsciences.berkeley.edu/population-center/annual-workshop-on-formal-demography/berkeley-formal-demography-workshop-2021/)
