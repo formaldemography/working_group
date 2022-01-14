@@ -14,7 +14,7 @@ If you would like to be included on the mailing list sign up [here](https://docs
 
 ## Next meeting
 
-**Title: **'My favorite formal demography paper: The Population Momentum of Preston & Guillot (1997, Genus)'
+**Title:** 'My favorite formal demography paper: The Population Momentum of Preston & Guillot (1997, Genus)'
 
 **Time:** Friday 28 January at 1pm ET
 
