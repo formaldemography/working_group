@@ -12,31 +12,41 @@ We aim to run thematic meetings on **research**, **training**, and **forums**. M
 
 If you would like to be included on the mailing list sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSeacS7MDRaulnOsVW3fMX2qaMzFdqutMrYOj8N0E-NYA9c7KQ/viewform). 
 
-<a href="map.html">Here</a> is a map of locations/affiliations of sign-ups to date. We are very international!
+## Next meeting
 
-## Schedule and materials
+**Title: **'My favorite formal demography paper: The Population Momentum of Preston & Guillot (1997, Genus)'
 
-- **Meeting 1: Kick-off**, Friday 29 October at 11am ET 
+**Time:** Friday 28 January at 1pm ET
+
+
+[Roland Rau](https://www.demogr.mpg.de/en/about_us_6113/staff_directory_1899/roland_rau_525/) (Professor of Demography at the University of Rostock and Research Fellow, MPIDR) will discuss his favorite formal demography paper:
+
+> Preston, S.H. and Guillot, M., 1997. Population dynamics in an age of declining fertility. Genus, pp.15-31.
+
+We may even have some special guests join in the discussion!
+
+
+## Previous meeting's materials
+
+- **October 2021: Kick-off**, Friday 29 October at 11am ET 
     + [Recording](https://www.youtube.com/watch?v=ROQK0JZr7uU) 
     + [Monica's slides](https://github.com/formaldemography/working_group/blob/main/presentations/fdwg.pdf) 
     + [Vanessa's Slides](https://github.com/formaldemography/working_group/blob/main/presentations/Meeting_29_10_2021.ppt)
-- **Meeting 2: Decomposition methods**, Friday 3 December at 10am ET. [Tim Riffe](https://github.com/timriffe) on decomposition methods and how to implement them in R
+- **December 2021: Decomposition methods**, Friday 3 December at 10am ET. [Tim Riffe](https://github.com/timriffe) on decomposition methods and how to implement them in R
     + [Recording](https://www.youtube.com/watch?v=J_6C82TN_WU) 
     + [Tim's slides](https://tinyurl.com/2p88j4md)
     + [Tim's code and materials](https://github.com/timriffe/FDWG_decomp_code)
 
 
-## Useful Links
-
-### Formal Demography at IUSSP 2021! 
-
-<a href="iussp.html">Here</a> is a list of formal demography presentations at IUSSP 2021. If your presentation is not yet included on this list, fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfKxR-KnFvhwyfEqFdC24DeucArPrMCb0MAKT_2oV_TO1QFMg/viewform). 
+## Links
 
 ### Other stuff
 
 - [Demographic Research: Special Collection on Formal Relationships](https://www.demographic-research.org/special/8/default.htm)
 - [Berkeley Formal Demography Workshop 2021](https://populationsciences.berkeley.edu/population-center/annual-workshop-on-formal-demography/berkeley-formal-demography-workshop-2021/)
 - [Ron Lee's essay 'Demography Abandons its Core'](https://u.demog.berkeley.edu/~rlee/papers/FormalDemog.pdf)
+- <a href="map.html">Here</a> is a map of locations/affiliations of sign-ups to date. We are very international!
+- (Past) <a href="iussp.html">Here</a> is a list of formal demography presentations at IUSSP 2021. 
 
 
 ## Contact
