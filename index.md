@@ -12,6 +12,10 @@ We aim to run thematic meetings on **research**, **training**, and **forums**. M
 
 If you would like to be included on the mailing list sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSeacS7MDRaulnOsVW3fMX2qaMzFdqutMrYOj8N0E-NYA9c7KQ/viewform). 
 
+### Register interest to present
+
+If you are interested in presenting at a future meeting, fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdscOmHFK7wmbazcBL54PkIAMvDiu6GnUMpmduYaM77T8rUFA/viewform).
+
 ## Next meeting
 
 **Title:** 'My favorite formal demography paper: The Population Momentum of Preston & Guillot (1997, Genus)'
