@@ -18,28 +18,23 @@ If you are interested in presenting at a future meeting, fill out [this form](ht
 
 ## Next meeting
 
-**Title:** 'My favorite formal demography paper: The Population Momentum of Preston & Guillot (1997, Genus)'
-
-**Time:** Friday 28 January at 1pm ET. Sign up above to get the Zoom link.
-
-
-[Roland Rau](https://www.demogr.mpg.de/en/about_us_6113/staff_directory_1899/roland_rau_525/) (Professor of Demography at the University of Rostock and Research Fellow, MPIDR) will discuss his favorite formal demography paper:
-
-> Preston, S.H. and Guillot, M., 1997. Population dynamics in an age of declining fertility. Genus, pp.15-31.
-
-We may even have some special guests join in the discussion!
-
+TBD, but probably the last Friday in February (25th). Check back for more details, coming soon!
 
 ## Previous meeting's materials
 
-- **October 2021: Kick-off**, Friday 29 October at 11am ET 
-    + [Recording](https://www.youtube.com/watch?v=ROQK0JZr7uU) 
-    + [Monica's slides](https://github.com/formaldemography/working_group/blob/main/presentations/fdwg.pdf) 
-    + [Vanessa's Slides](https://github.com/formaldemography/working_group/blob/main/presentations/Meeting_29_10_2021.ppt)
+- **January 2022: Population momentum**, Friday 28 January at 1pm ET. [Roland Rau](https://www.demogr.mpg.de/en/about_us_6113/staff_directory_1899/roland_rau_525/) talking about his favorite formal demography paper. 
+    + [Recording](https://www.youtube.com/watch?v=R0CSxBwr8Sg)
+    + [Roland's slides]()
+    + Rolands code: TO BE ADDED! 
 - **December 2021: Decomposition methods**, Friday 3 December at 10am ET. [Tim Riffe](https://github.com/timriffe) on decomposition methods and how to implement them in R
     + [Recording](https://www.youtube.com/watch?v=J_6C82TN_WU) 
     + [Tim's slides](https://tinyurl.com/2p88j4md)
     + [Tim's code and materials](https://github.com/timriffe/FDWG_decomp_code)
+- **October 2021: Kick-off**, Friday 29 October at 11am ET 
+    + [Recording](https://www.youtube.com/watch?v=ROQK0JZr7uU) 
+    + [Monica's slides](https://github.com/formaldemography/working_group/blob/main/presentations/fdwg.pdf) 
+    + [Vanessa's Slides](https://github.com/formaldemography/working_group/blob/main/presentations/Meeting_29_10_2021.ppt)
+
 
 
 ## Links
