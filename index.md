@@ -24,8 +24,8 @@ TBD, but probably the last Friday in February (25th). Check back for more detail
 
 - **January 2022: Population momentum**, Friday 28 January at 1pm ET. [Roland Rau](https://www.demogr.mpg.de/en/about_us_6113/staff_directory_1899/roland_rau_525/) talking about his favorite formal demography paper. 
     + [Recording](https://www.youtube.com/watch?v=R0CSxBwr8Sg)
-    + [Roland's slides]()
-    + Rolands code: TO BE ADDED! 
+    + [Roland's slides](https://github.com/formaldemography/working_group/blob/main/presentations/RauRoland-Formal-Demography-Population-Momentum-to-share-2022-01-28.pdf)
+    + Roland's code: TO BE ADDED! 
 - **December 2021: Decomposition methods**, Friday 3 December at 10am ET. [Tim Riffe](https://github.com/timriffe) on decomposition methods and how to implement them in R
     + [Recording](https://www.youtube.com/watch?v=J_6C82TN_WU) 
     + [Tim's slides](https://tinyurl.com/2p88j4md)
@@ -42,7 +42,7 @@ TBD, but probably the last Friday in February (25th). Check back for more detail
 - [Demographic Research: Special Collection on Formal Relationships](https://www.demographic-research.org/special/8/default.htm)
 - [Berkeley Formal Demography Workshop 2021](https://populationsciences.berkeley.edu/population-center/annual-workshop-on-formal-demography/berkeley-formal-demography-workshop-2021/)
 - [Ron Lee's essay 'Demography Abandons its Core'](https://u.demog.berkeley.edu/~rlee/papers/FormalDemog.pdf)
-- <a href="map.html">Here</a> is a map of locations/affiliations of sign-ups to date. We are very international!
+- <a href="map.html">Here</a> is a map of locations/affiliations of sign-ups as of October 2021. We are very international!
 - (Past) <a href="iussp.html">Here</a> is a list of formal demography presentations at IUSSP 2021. 
 
 
