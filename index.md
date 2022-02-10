@@ -18,7 +18,7 @@ If you are interested in presenting at a future meeting, fill out [this form](ht
 
 ## Next meeting
 
-TBD, but probably the last Friday in February (25th). Check back for more details, coming soon!
+**February 25 at 1pm ET: Formal demography of kinship: theory and applications**. [Hal Caswell](https://www.uva.nl/en/profile/c/a/h.caswell/h.caswell.html?cb) (Universty of Amsterdam) will talk about his work on the formal demography of kinship, and [Diego Alburez-Gutierrez](http://alburez.me/) (MPIDR) will talk about the application of these methods using the [DemoKin](https://github.com/IvanWilli/DemoKin) R package, developed by himself and [Iván Williams](https://github.com/IvanWilli) (Universidad de Buenos Aires). 
 
 ## Previous meeting's materials
 
