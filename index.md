@@ -22,7 +22,7 @@ Next meeting planned for end March, stay tuned!
 
 ## Previous meeting's materials
 
-- **February 2022: Kinship methods**, February 25 at 1pm ET. [Hal Caswell](https://www.uva.nl/en/profile/c/a/h.caswell/h.caswell.html?cb) (University of Amsterdam)  on the formal demography of kinship, and [Diego Alburez-Gutierrez](http://alburez.me/) (MPIDR) on the application of these methods using the [DemoKin](https://github.com/IvanWilli/DemoKin) R package, developed by himself and [Iván Williams](https://github.com/IvanWilli) (Universidad de Buenos Aires). 
+- **February 2022: Kinship methods**, February 25 at 1pm ET. [Hal Caswell](https://www.uva.nl/en/profile/c/a/h.caswell/h.caswell.html?cb) on the formal demography of kinship, and [Diego Alburez-Gutierrez](http://alburez.me/) on the application of these methods using the [DemoKin](https://github.com/IvanWilli/DemoKin) R package, developed by himself and [Iván Williams](https://github.com/IvanWilli). 
     + [Recording](https://www.youtube.com/watch?v=SrjVEbaT_FM)
     + [Diego and Iván's notes](http://alburez.me/DemoKin_example/)
 
