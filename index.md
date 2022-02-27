@@ -18,11 +18,13 @@ If you are interested in presenting at a future meeting, fill out [this form](ht
 
 ## Next meeting
 
-**February 25 at 1pm ET: Formal demography of kinship: theory and applications**. [Hal Caswell](https://www.uva.nl/en/profile/c/a/h.caswell/h.caswell.html?cb) (University of Amsterdam) will talk about his work on the formal demography of kinship, and [Diego Alburez-Gutierrez](http://alburez.me/) (MPIDR) will talk about the application of these methods using the [DemoKin](https://github.com/IvanWilli/DemoKin) R package, developed by himself and [Iván Williams](https://github.com/IvanWilli) (Universidad de Buenos Aires). 
-
-Ahead of the meeting, some supporting info on the DemoKin package is [here](http://alburez.me/DemoKin_example/). 
+Next meeting planned for end March, stay tuned!
 
 ## Previous meeting's materials
+
+- **February 2022: Kinship methods**, February 25 at 1pm ET. [Hal Caswell](https://www.uva.nl/en/profile/c/a/h.caswell/h.caswell.html?cb) (University of Amsterdam)  on the formal demography of kinship, and [Diego Alburez-Gutierrez](http://alburez.me/) (MPIDR) on the application of these methods using the [DemoKin](https://github.com/IvanWilli/DemoKin) R package, developed by himself and [Iván Williams](https://github.com/IvanWilli) (Universidad de Buenos Aires). 
+    + [Recording](https://www.youtube.com/watch?v=SrjVEbaT_FM)
+    + [Diego and Iván's notes](http://alburez.me/DemoKin_example/)
 
 - **January 2022: Population momentum**, Friday 28 January at 1pm ET. [Roland Rau](https://www.demogr.mpg.de/en/about_us_6113/staff_directory_1899/roland_rau_525/) talking about his favorite formal demography paper. 
     + [Recording](https://www.youtube.com/watch?v=R0CSxBwr8Sg)
