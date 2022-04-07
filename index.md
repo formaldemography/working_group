@@ -18,7 +18,8 @@ If you are interested in presenting at a future meeting, fill out [this form](ht
 
 ## Next meeting
 
-Next meeting planned for end March, stay tuned!
+No meeting in March because we're all busy with PAA :)
+Next meeting planned for end April, stay tuned!
 
 ## Previous meeting's materials
 
