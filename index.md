@@ -20,7 +20,9 @@ If you are interested in presenting at a future meeting, fill out [this form](ht
 
 We are back in September! FINALLY!
 
-**Meeting time**: 30 September, 2pm Central European Summer time (Denmark, Vienna) 8am Toronto time. Sign up for meeting link!
+**Meeting time**: 30 September, 2pm Central European Summer time (Denmark, Vienna); 8am Toronto time. 
+
+Sign up for meeting link!
 
 [Marie-Pier Bergeron Boucher](https://www.sdu.dk/en/forskning/forskningsenheder/samf/cpop/about_the_centre/our_people/cpop_dem/marie_pier_bergeron_boucher) will present 'Outsurvival statistic: Method and application to sex differences in lifespan'. 
 
