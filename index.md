@@ -30,6 +30,12 @@ Sign up for meeting link!
 
 This is related to work just published in [BMJ Open](https://bmjopen.bmj.com/content/12/8/e059964).
 
+### October meeting 
+
+[Ariel Karlinsky](https://akarlinsky.github.io/) will talk about his work on the [World Mortality Dataset](https://github.com/akarlinsky/world_mortality).
+
+**Meeting time**: 18 October at 3pm Central European Summer time (Denmark, Vienna); 4pm Israel timel 9am Toronto time. 
+
 ## Previous meeting's materials
 
 - **February 2022: Kinship methods**, February 25 at 1pm ET. [Hal Caswell](https://www.uva.nl/en/profile/c/a/h.caswell/h.caswell.html?cb) on the formal demography of kinship, and [Diego Alburez-Gutierrez](http://alburez.me/) on the application of these methods using the [DemoKin](https://github.com/IvanWilli/DemoKin) R package, developed by himself and [Iván Williams](https://github.com/IvanWilli). 
