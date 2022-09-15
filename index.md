@@ -6,7 +6,7 @@ The Formal Demography Working Group aims to bring together formal demography sch
 2. Create a supportive and inclusive environment to learn, and encourage people to work with formal methods
 3. Discuss the past, present and future of formal demography 
 
-We aim to run thematic meetings on **research**, **training**, and **forums**. More details can be found <a href="structure.html">here</a>
+We aim to run thematic meetings on **research**, **training**, and **forums**. More details can be found <a href="structure.html">here</a>.
 
 ### Sign-up
 
@@ -34,7 +34,7 @@ This is related to work just published in [BMJ Open](https://bmjopen.bmj.com/con
 
 [Ariel Karlinsky](https://akarlinsky.github.io/) will talk about his work on the [World Mortality Dataset](https://github.com/akarlinsky/world_mortality).
 
-**Meeting time**: 18 October at 3pm Central European Summer time (Denmark, Vienna); 4pm Israel timel 9am Toronto time. 
+**Meeting time**: 18 October at 3pm Central European Summer time (Denmark, Vienna); 4pm Israel time; 9am Toronto time. 
 
 ## Previous meeting's materials
 
