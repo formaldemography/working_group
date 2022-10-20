@@ -32,7 +32,7 @@ If you are interested in presenting at a future meeting, fill out [this form](ht
 
 - **January 2022: Population momentum**, Friday 28 January at 1pm ET. [Roland Rau](https://www.demogr.mpg.de/en/about_us_6113/staff_directory_1899/roland_rau_525/) talking about his favorite formal demography paper. 
     + [Recording](https://www.youtube.com/watch?v=R0CSxBwr8Sg)
-    + [Roland's slides](https://github.com/formaldemography/working_group/blob/main/presentations/RauRoland-Formal-Demography-Population-Momentum-to-share-2022-01-28.pdf)
+    + [Roland's slides](https://github.com/formaldemography/working_group/blob/main/presentations/rau_pop_momentum.pdf)
     + Roland's code: TO BE ADDED! 
 - **December 2021: Decomposition methods**, Friday 3 December at 10am ET. [Tim Riffe](https://github.com/timriffe) on decomposition methods and how to implement them in R
     + [Recording](https://www.youtube.com/watch?v=J_6C82TN_WU) 
