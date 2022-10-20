@@ -18,19 +18,17 @@ If you are interested in presenting at a future meeting, fill out [this form](ht
 
 ## Next meeting
 
-[Ariel Karlinsky](https://akarlinsky.github.io/) will talk about his work on the [World Mortality Dataset](https://github.com/akarlinsky/world_mortality).
-
-**Meeting time**: 18 October at 3pm Central European Summer time (Denmark, Vienna); 4pm Israel time; 9am Toronto time. 
 
 ## Previous meeting's materials
 
+- **October 2022: World Mortality Dataset**, 18 October at 9am ET. [Ariel Karlinsky](https://akarlinsky.github.io/) presented on the [World Mortality Dataset](https://github.com/akarlinsky/world_mortality).
+    + [Recording](https://www.youtube.com/watch?v=sENAEmKCopI&t=731s)
 - **September 2022: Outsurvival statistic**, 30 September at 8am ET. [Marie-Pier Bergeron Boucher](https://www.sdu.dk/en/forskning/forskningsenheder/samf/cpop/about_the_centre/our_people/cpop_dem/marie_pier_bergeron_boucher) presented 'Outsurvival statistic: Method and application to sex differences in lifespan'. 
     + [Recording](https://www.youtube.com/watch?v=JHV-W5HYGno)
-    + [Slides](https://github.com/formaldemography/working_group/blob/main/presentations/boucher_outsurvival.pdf)
+    + [Marie-Pier's slides](https://github.com/formaldemography/working_group/blob/main/presentations/boucher_outsurvival.pdf)
 - **February 2022: Kinship methods**, February 25 at 1pm ET. [Hal Caswell](https://www.uva.nl/en/profile/c/a/h.caswell/h.caswell.html?cb) on the formal demography of kinship, and [Diego Alburez-Gutierrez](http://alburez.me/) on the application of these methods using the [DemoKin](https://github.com/IvanWilli/DemoKin) R package, developed by himself and [Iván Williams](https://github.com/IvanWilli). 
     + [Recording](https://www.youtube.com/watch?v=SrjVEbaT_FM)
     + [Diego and Iván's notes](http://alburez.me/DemoKin_example/)
-
 - **January 2022: Population momentum**, Friday 28 January at 1pm ET. [Roland Rau](https://www.demogr.mpg.de/en/about_us_6113/staff_directory_1899/roland_rau_525/) talking about his favorite formal demography paper. 
     + [Recording](https://www.youtube.com/watch?v=R0CSxBwr8Sg)
     + [Roland's slides](https://github.com/formaldemography/working_group/blob/main/presentations/rau_pop_momentum.pdf)
