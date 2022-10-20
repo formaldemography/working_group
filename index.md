@@ -18,6 +18,7 @@ If you are interested in presenting at a future meeting, fill out [this form](ht
 
 ## Next meeting
 
+Stay tuned!
 
 ## Previous meeting's materials
 
