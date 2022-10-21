@@ -18,7 +18,7 @@ If you are interested in presenting at a future meeting, fill out [this form](ht
 
 ## Next meeting
 
-Stay tuned!
+**November 29 at 10am ET (11am Brazil time; 4pm CET)**: [Bernardo Lanza Queiroz](https://docentes.face.ufmg.br/lanza/) will talk about 'Estimating adult mortality in countries with defective data: some alternative approaches'.
 
 ## Previous meeting's materials
 
