@@ -47,9 +47,7 @@ If you are interested in presenting at a future meeting, fill out [this form](ht
 
 ## Links
 
-- [Demographic Research: Call for papers for Special Collection in Memory of Jim Vaupel](https://www.demographic-research.org/files/Call%20for%20papers%20SC%20in%20memory%20of%20JWV.pdf)
 - [Demographic Research: Special Collection on Formal Relationships](https://www.demographic-research.org/special/8/default.htm)
-- [Berkeley Formal Demography Workshop 2021](https://populationsciences.berkeley.edu/population-center/annual-workshop-on-formal-demography/berkeley-formal-demography-workshop-2021/)
 - [Ron Lee's essay 'Demography Abandons its Core'](https://u.demog.berkeley.edu/~rlee/papers/FormalDemog.pdf)
 - <a href="map.html">Here</a> is a map of locations/affiliations of sign-ups as of October 2021. We are very international!
 - (Past) <a href="iussp.html">Here</a> is a list of formal demography presentations at IUSSP 2021. 
