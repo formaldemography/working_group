@@ -18,10 +18,13 @@ If you are interested in presenting at a future meeting, fill out [this form](ht
 
 ## Next meeting
 
-**November 29 at 9am ET (11am Brazil time; 3pm CET)**: [Bernardo Lanza Queiroz](https://docentes.face.ufmg.br/lanza/) will talk about 'Estimating adult mortality in countries with defective data: some alternative approaches'.
+Our next meeting will be in January 2023. Stay tuned for details!
 
 ## Previous meeting's materials
 
+- **November 2022: Estimating mortality with imperfect data**, November 29 at 9am ET. [Bernardo Lanza Queiroz](https://docentes.face.ufmg.br/lanza/) presented 'Estimating adult mortality in countries with defective data: some alternative approaches'
+    + [Recording](https://www.youtube.com/watch?v=5eZ-jiJpudc)
+    + [Slides](https://github.com/formaldemography/working_group/blob/main/presentations/lanza_ddm.pdf)
 - **October 2022: World Mortality Dataset**, 18 October at 9am ET. [Ariel Karlinsky](https://akarlinsky.github.io/) presented on the [World Mortality Dataset](https://github.com/akarlinsky/world_mortality).
     + [Recording](https://www.youtube.com/watch?v=sENAEmKCopI&t=731s)
 - **September 2022: Outsurvival statistic**, 30 September at 8am ET. [Marie-Pier Bergeron Boucher](https://www.sdu.dk/en/forskning/forskningsenheder/samf/cpop/about_the_centre/our_people/cpop_dem/marie_pier_bergeron_boucher) presented 'Outsurvival statistic: Method and application to sex differences in lifespan'. 
