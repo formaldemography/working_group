@@ -18,7 +18,7 @@ If you are interested in presenting at a future meeting, fill out [this form](ht
 
 ## Next meeting
 
-Our next meeting will be in January 2023. Stay tuned for details!
+Our next meeting will be on **Thursday, 26 January at 10 ET**, with [Matt Hauer](https://mathewhauer.com/) giving a presentation on 'Climate Migration, Demographic Amplification, and multiregional population projections'.
 
 ## Previous meeting's materials
 
@@ -58,4 +58,4 @@ Our next meeting will be in January 2023. Stay tuned for details!
 
 ## Contact
 
-This working group is organized by [Vanessa Di Lego](http://www.wittgensteincentre.org/en/staff/member/di-lego.htm) (Vienna Institute of Demography), [Ryohei Mogi](https://www.ox.ac.uk/news-and-events/find-an-expert/dr-ryohei-mogi) (University of Oxford), and [Monica Alexander](https://www.monicaalexander.com/) (University of Toronto). It is still a very new idea and we are always open to suggestions and feedback. 
+This working group is organized by [Vanessa Di Lego](http://www.wittgensteincentre.org/en/staff/member/di-lego.htm) (Vienna Institute of Demography), [Ryohei Mogi](https://ryomogi.github.io/) (University of Southern Denmark), and [Monica Alexander](https://www.monicaalexander.com/) (University of Toronto). It is still a very new idea and we are always open to suggestions and feedback. 
