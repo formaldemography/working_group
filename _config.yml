@@ -3,6 +3,9 @@ author:
   name: formaldemography
   email: formaldemography@gmail.com
 theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 header_pages:
   - structure.md
 
