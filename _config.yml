@@ -1,7 +1,7 @@
 theme: minima
 title: Formal Demography Working Group
 author:
-  name: Formal Demography Working Group
+  name: formaldemography
   email: formaldemography@gmail.com
 header_pages:
   - structure.md
