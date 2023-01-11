@@ -1,5 +1,5 @@
 ---
-title: "Structure of the Formal Demography Working Group"
+title: "Structure"
 output: 
   html_document:
     theme: cerulean
