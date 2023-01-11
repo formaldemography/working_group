@@ -1,6 +1,8 @@
 theme: minima
 title: Formal Demography Working Group
-logo: fdwg_logo.jpg
+author:
+  name: Formal Demography Working Group
+  email: formaldemography@gmail.com
 header_pages:
   - structure.md
 
