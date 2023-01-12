@@ -10,8 +10,9 @@ The Formal Demography Working Group aims to bring together formal demography sch
 
 We aim to run thematic meetings on **research**, **training**, and **forums**. More details can be found <a href="structure.html">here</a>.
 
-<img src="fdwg_logo.jpg" width="200"/>
-
+<p align="center">
+<img src="fdwg_logo.jpg" width="250"/>
+</p>
 
 ## Sign-up
 
