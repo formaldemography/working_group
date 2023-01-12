@@ -6,8 +6,6 @@ output:
 ---
 
 
-## Previous meeting's materials
-
 - **November 2022: Estimating mortality with imperfect data**, November 29 at 9am ET. [Bernardo Lanza Queiroz](https://docentes.face.ufmg.br/lanza/) presented 'Estimating adult mortality in countries with defective data: some alternative approaches'
     + [Recording](https://www.youtube.com/watch?v=5eZ-jiJpudc)
     + [Bernardo's Slides](https://github.com/formaldemography/working_group/blob/main/presentations/lanza_ddm.pdf)

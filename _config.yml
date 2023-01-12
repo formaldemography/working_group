@@ -1,7 +1,9 @@
 title: Formal Demography Working Group
+name: Formal Demography Working Group
 email: formaldemography@gmail.com
 
 theme: minima
 header_pages:
   - previous.md
+  - links.md
 
