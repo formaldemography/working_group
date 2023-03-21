@@ -19,7 +19,7 @@ If you would like to be included on the mailing list sign up [here](https://docs
 
 # Next meeting
 
-Our next meeting will be on **Thursday, 26 January at 10 ET**, with [Matt Hauer](https://mathewhauer.com/) giving a presentation on 'Climate Migration, Demographic Amplification, and multiregional population projections'. Sign up to receive Zoom details!
+Stay tuned! We'll be at PAA; come say hi!
 
 ## Register interest to present
 
