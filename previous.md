@@ -5,7 +5,8 @@ output:
     theme: cerulean
 ---
 
-
+- **January 2023: Climate Migration, Demographic Amplification, and multiregional population projections**, Thursday, 26 January at 10 ET with [Matt Hauer](https://mathewhauer.com/).
+    + [Recording](https://www.youtube.com/watch?v=MEXbRLSLMn0)
 - **November 2022: Estimating mortality with imperfect data**, November 29 at 9am ET. [Bernardo Lanza Queiroz](https://docentes.face.ufmg.br/lanza/) presented 'Estimating adult mortality in countries with defective data: some alternative approaches'
     + [Recording](https://www.youtube.com/watch?v=5eZ-jiJpudc)
     + [Bernardo's Slides](https://github.com/formaldemography/working_group/blob/main/presentations/lanza_ddm.pdf)
