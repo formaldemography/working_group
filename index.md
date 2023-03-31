@@ -19,7 +19,7 @@ If you would like to be included on the mailing list sign up [here](https://docs
 
 # Next meeting
 
-**Friday 21 April, 10am ET/4pm Rostock time**: [Riccardo Omenti](https://www.unibo.it/sitoweb/riccardo.omenti2/en) on estimating demographic quantities from crowdsourced online genealogies. 
+**Friday 21 April, 10am ET/4pm Rostock time**: [Riccardo Omenti](https://romenti.github.io/) on estimating demographic quantities from crowdsourced online genealogies. 
 
 Abstract:
 
