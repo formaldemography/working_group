@@ -19,7 +19,11 @@ If you would like to be included on the mailing list sign up [here](https://docs
 
 # Next meeting
 
-Stay tuned! We'll be at PAA; come say hi!
+**Friday 21 April, 10am ET/4pm Rostock time**: [Riccardo Omenti](https://www.unibo.it/sitoweb/riccardo.omenti2/en) on estimating demographic quantities from crowdsourced online genealogies. 
+
+Abstract:
+
+> Crowdsourced online genealogies are a promising new data source for demographic analysis. This data source incorporates both individual-level demographic data, e.g. place and date of birth and/or death, as well as information about kinship ties that span over multiple centuries and countries. This presentation aims at illustrating new indicators to assess the overall quality of online genealogical data as well as at exploring the potential use of this data source to study the fertility transition in Northern Europe and North America during the historical period 1750-1900. The analysis relies on FamiLinx, a novel historical dataset crowdsourced from the public available genealogies on the website geni.com. The evolution of fertility is explored by constructing country-specific time series of total fertility rates (TFR) estimated using a novel Bayesian Statistical method developed by Schmertmann & Hauer (2019). Based upon the preliminary results of the analysis, the presentation will conclude with an overall critical assessment about the extent to which online genealogies can be used as an historical repository to document stylized facts from Demographic Theory.
 
 ## Register interest to present
 
