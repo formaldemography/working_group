@@ -10,7 +10,7 @@ The Formal Demography Working Group aims to bring together formal demography sch
 
 
 <p align="center">
-<img src="fdwg_logo.jpg" width="250"/>
+<img src="logo.png" width="250"/>
 </p>
 
 ## Sign-up
@@ -18,6 +18,8 @@ The Formal Demography Working Group aims to bring together formal demography sch
 If you would like to be included on the mailing list sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSeacS7MDRaulnOsVW3fMX2qaMzFdqutMrYOj8N0E-NYA9c7KQ/viewform). 
 
 # Next meeting
+
+**Come and find us at PAA! We will have stickers!**
 
 **Friday 21 April, 10am ET/4pm Rostock time**: [Riccardo Omenti](https://romenti.github.io/) on estimating demographic quantities from crowdsourced online genealogies. 
 
