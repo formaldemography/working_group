@@ -19,7 +19,7 @@ If you would like to be included on the mailing list sign up [here](https://docs
 
 # Next meeting
 
-Stay tuned!
+We're back! On 28 March 2024 at 5pm ET / 9am Australia time, [Tianyu (Alex) Shen](https://demography.cass.anu.edu.au/people/tianyu-alex-shen) (Australian National University) will present recent work on healthy life expectancy. Sign up for Zoom details.
 
 ## Register interest to present
 
@@ -28,4 +28,4 @@ If you are interested in presenting at a future meeting, fill out [this form](ht
 
 ## Contact
 
-This working group is organized by [Vanessa Di Lego](http://www.wittgensteincentre.org/en/staff/member/di-lego.htm) (Vienna Institute of Demography), [Ryohei Mogi](https://ryomogi.github.io/) (University of Southern Denmark), and [Monica Alexander](https://www.monicaalexander.com/) (University of Toronto). We are always open to suggestions and feedback. 
+This working group is organized by [Vanessa Di Lego](http://www.wittgensteincentre.org/en/staff/member/di-lego.htm) (Vienna Institute of Demography), [Ryohei Mogi](https://ryomogi.github.io/) (University of Southern Denmark and Pompeu Fabra University), and [Monica Alexander](https://www.monicaalexander.com/) (University of Toronto). We are always open to suggestions and feedback. 
