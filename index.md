@@ -19,7 +19,7 @@ If you would like to be included on the mailing list sign up [here](https://docs
 
 # Next meeting
 
-We're back! On 28 March 2024 at 5pm ET / 9am Australia time, [Tianyu (Alex) Shen](https://demography.cass.anu.edu.au/people/tianyu-alex-shen) (Australian National University) will present recent work on healthy life expectancy. Sign up for Zoom details.
+We're back! On 27 March 2024 at 6pm ET (Note! this is 28 March 2024 9am Australia time), [Tianyu (Alex) Shen](https://demography.cass.anu.edu.au/people/tianyu-alex-shen) (Australian National University) will present recent work on healthy life expectancy. Alex will first show how to decompose the health life expectancy calculated from multistate life table and its interpretation. Then, he will apply this method to decompose change in healthy life expectancy by educational group to explore the contribution from shift in educational composition. Sign up for Zoom details.
 
 ## Register interest to present
 
