@@ -19,9 +19,7 @@ If you would like to be included on the mailing list sign up [here](https://docs
 
 # Next meeting
 
-We're back finally!!!! On 16 May at 11:30pm ET, [Hampton Gaddy](https://hggaddy.github.io/) will present 'Challenges in Estimating Crisis Mortality: Spatial Heterogeneity, Endogenous Incompleteness, Sample Size, and Ad Hoc Methods'. *Sign up for Zoom details.*
-
-Abstract: Accurately estimating the mortality of crises can be methodologically difficult. Researchers often use ad hoc methods with biases that have not been systematically explored, or they apply ‘standard’ demographic methods that rely on assumptions that may be difficult to test in contexts of interest. In this talk, I first review the influence and bias of a class of ad hoc methods that estimate death tolls by extrapolating population counts before and after a crisis and subtracting the projected values (which I term the growth rate discontinuity method, or GRDM). Then, I will describe two interrelated problems that come from estimating excess mortality at different spatial scales. On one hand, when there are multiple mortality crises in a period of interest, spatially disaggregated data may be required for identifying the true baseline mortality for any one crisis; without sufficient disaggregation, death tolls will be underestimated. On the other hand, spatial aggregation is needed to meet the minimum population size required to estimate excess mortality precisely; without sufficient aggregation, death tolls will be underestimated or overestimated, depending on context. Finally, I will briefly discuss biases that arise when the completeness of mortality data in excess mortality models is not assessed.
+Stay tuned! In the meantime check out our [past meetings](https://formaldemography.github.io/working_group/previous.html).
 
 ## Register interest to present
 
