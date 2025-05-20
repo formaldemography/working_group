@@ -5,6 +5,8 @@ output:
     theme: cerulean
 ---
 
+- **May 2025: Challenges in Estimating Crisis Mortality**, 16 May 2025 with [Hampton Gaddy](https://hggaddy.github.io/)
+    + [Recording](https://www.youtube.com/watch?v=qCNII9h0SKY)
 - **March 2024: Healthy life expectancy**, 27 March 2024 with [Alex Shen](https://demography.cass.anu.edu.au/people/tianyu-alex-shen)
     + [Recording](https://www.youtube.com/watch?v=xPscZoWZnOU)
 - **April 2023: Estimating fertility from online geneaologies**, Friday 20 April at 10 ET with [Riccardo Omenti](https://romenti.github.io/).
