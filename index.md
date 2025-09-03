@@ -19,7 +19,9 @@ If you would like to be included on the mailing list sign up [here](https://docs
 
 # Next meeting
 
-Stay tuned! In the meantime check out our [past meetings](https://formaldemography.github.io/working_group/previous.html).
+Our next meeting will be held on September 11 at 10am ET (4pm CET). [Philippe Bocquier](https://www.uclouvain.be/en/people/philippe.bocquier) will present 'Identifying small-area diffusion of mortality transition using non-linear modelling in 19th-century Belgium'. Abstract below. Sign up to receive Zoom details!
+
+Abstract: Perhaps surprisingly, despite being regarded as a major concept in demography and a global phenomenon, the mortality transition has only recently been subjected to systematic comparison (Delventhal et al. 2021). By contrast, the fertility transition has been more extensively studied. A process of fertility diffusion, through the spread of knowledge and behaviour, has been identified in the early phase of the transition at both international and sub-national levels (Casterline 2001). This paper seeks to identify the mortality transition in nineteenth-century Belgium at a fine spatial scale, namely across almost 2,600 municipalities (median population: 1,004; IQR: 575–1,842), by combining single-exponential recursive smoothing of crude death rates with non-linear modelling to determine breakpoint years. Event history analysis of the transition years confirms the existence of a strong diffusion process, although the precise behavioural mechanism remains unclear.
 
 ## Register interest to present
 
