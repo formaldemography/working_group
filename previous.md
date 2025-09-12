@@ -5,6 +5,8 @@ output:
     theme: cerulean
 ---
 
+- **September 2025: Identifying small-area diffusion of mortality transitions using non-linear modelling in 19th-century Belgium**, 11 September 2025 with [Philippe Bocquier](https://www.uclouvain.be/en/people/philippe.bocquier)
+    + [Recording](https://www.youtube.com/watch?v=7C_RYVd39ZQ)
 - **May 2025: Challenges in Estimating Crisis Mortality**, 16 May 2025 with [Hampton Gaddy](https://hggaddy.github.io/)
     + [Recording](https://www.youtube.com/watch?v=qCNII9h0SKY)
 - **March 2024: Healthy life expectancy**, 27 March 2024 with [Alex Shen](https://demography.cass.anu.edu.au/people/tianyu-alex-shen)
