@@ -5,6 +5,8 @@ output:
     theme: cerulean
 ---
 
+- **February 2026: Lessons from a Laggard? Study of CVD incidence and survival inequalities in Finland, 2000-2020, based on novel bivariate health-death distributions**, 5 February 2026 with [Chiara Micheletti](https://www.demogr.mpg.de/en/about_us_6113/staff_directory_1899/chiara_micheletti_4167/)
+    + [Recording](https://www.youtube.com/watch?v=w0JlODSLJBA)
 - **September 2025: Identifying small-area diffusion of mortality transitions using non-linear modelling in 19th-century Belgium**, 11 September 2025 with [Philippe Bocquier](https://www.uclouvain.be/en/people/philippe.bocquier)
     + [Recording](https://www.youtube.com/watch?v=7C_RYVd39ZQ)
 - **May 2025: Challenges in Estimating Crisis Mortality**, 16 May 2025 with [Hampton Gaddy](https://hggaddy.github.io/)
