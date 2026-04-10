@@ -17,7 +17,7 @@ The Formal Demography Working Group brings together those interested in formal d
 
 If you would like to be included on the mailing list sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSeacS7MDRaulnOsVW3fMX2qaMzFdqutMrYOj8N0E-NYA9c7KQ/viewform). 
 
-# Next meeting
+## Next meeting
 
 On **Thursday, April 23,** at **11 am ET,** [Nik van der Wagt](https://www.demog.berkeley.edu/graduate-students/niklas-van-der-wagt/) will present *'Population Momentum from Replacement Migration.'* Sign up to register for a Zoom link!
 
